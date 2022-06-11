@@ -1,0 +1,21 @@
+<students>    # document ROOT
+ <record>
+  <name>arun</name>
+  <branch>CSE</branch>
+  </record>
+ <record>
+  <name>RAvi</name>
+  <branch>ECE</branch>
+  <loc>blr</loc>
+ </record>
+ <record>
+  <name>hari</name>
+  <branch>mech</branch>
+  <loc>blr</loc>
+ </record>
+ <record>
+  <name>john</name>
+  <branch>civ</branch>
+  <loc>blr</loc>
+ </record>
+</students>

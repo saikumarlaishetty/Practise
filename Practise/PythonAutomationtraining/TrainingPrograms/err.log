@@ -1,0 +1,15 @@
+message-1 2022-04-11 12:15:59,481 192.168.1.105
+message-2 2022-04-11 12:15:59,520 192.168.1.105
+message-3 2022-04-11 12:15:59,520 192.168.1.105
+message-4 2022-04-11 12:15:59,520 192.168.1.105
+message-5 2022-04-11 12:15:59,520 192.168.1.105
+DEBUG:root:Type of Exception = module 'sys' has no attribute 'agrv' <class 'AttributeError'>
+DEBUG:root:Type of Exception = module 'sys' has no attribute 'agrv' <class 'AttributeError'>
+DEBUG:root:Type of Exception = module 'sys' has no attribute 'agrv' <class 'AttributeError'>
+DEBUG:root:Type of Exception = module 'sys' has no attribute 'agrv' <class 'AttributeError'>
+DEBUG:root:Type of Exception = module 'sys' has no attribute 'agrv' <class 'AttributeError'>
+DEBUG:root:Type of Exception = module 'sys' has no attribute 'agrv' <class 'AttributeError'>
+DEBUG:root:Type of Exception = module 'sys' has no attribute 'agrv' <class 'AttributeError'>
+DEBUG:root:Type of Exception = module 'sys' has no attribute 'agrv' <class 'AttributeError'>
+DEBUG:root:Type of Exception = module 'sys' has no attribute 'agrv' <class 'AttributeError'>
+DEBUG:root:Type of Exception = module 'sys' has no attribute 'agrv' <class 'AttributeError'>

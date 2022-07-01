@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1df87730-fe21-4322-bd07-d21a8d2801da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pytest_Demo/test_fixtureDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonSelFramework/tests/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Practise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Practise.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson1-DataStructure.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson1-DataStructure.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../isepy" beforeDir="false" afterPath="$PROJECT_DIR$/../isepy" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,9 +14,15 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Practise$guess_the_word.coverage" NAME="guess_the_word Coverage Results" MODIFIED="1637725922653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Practise$WebScraping_book.coverage" NAME="WebScraping_book Coverage Results" MODIFIED="1653562241665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HerotoZero/WebScraping" />
+    <SUITE FILE_PATH="coverage/Practise$test.coverage" NAME="test Coverage Results" MODIFIED="1654610164067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12 Beginner Python projects" />
+    <SUITE FILE_PATH="coverage/Practise$Hangman.coverage" NAME="Hangman Coverage Results" MODIFIED="1654598555447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12 Beginner Python projects" />
+    <SUITE FILE_PATH="coverage/Practise$SPYGAME.coverage" NAME="SPYGAME Coverage Results" MODIFIED="1651904728592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HerotoZero" />
+    <SUITE FILE_PATH="coverage/Practise$Doctests_in_master_yoda.coverage" NAME="Doctests in master_yoda Coverage Results" MODIFIED="1652113900803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HerotoZero" />
+    <SUITE FILE_PATH="coverage/Practise$AlmostThere.coverage" NAME="AlmostThere Coverage Results" MODIFIED="1651897792815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HerotoZero" />
+    <SUITE FILE_PATH="coverage/Practise$acceptable_value.coverage" NAME="acceptable_value Coverage Results" MODIFIED="1652152193541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HerotoZero/MilestoneProject" />
     <SUITE FILE_PATH="coverage/Practise$HelloWorld.coverage" NAME="HelloWorld Coverage Results" MODIFIED="1635674138186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Practise$Operator_Overloading.coverage" NAME="Operator_Overloading Coverage Results" MODIFIED="1639984525350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Operators" />
-    <SUITE FILE_PATH="coverage/Practise$Hangman.coverage" NAME="Hangman Coverage Results" MODIFIED="1637681754394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Practise$Chaining.coverage" NAME="Chaining Coverage Results" MODIFIED="1640323696248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Function" />
     <SUITE FILE_PATH="coverage/Practise$number_guesses.coverage" NAME="number_guesses Coverage Results" MODIFIED="1646190727348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProjects" />
     <SUITE FILE_PATH="coverage/Practise$pytest_in_test_demo1_py.coverage" NAME="pytest in test_fixturesData.py Coverage Results" MODIFIED="1647745435136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
@@ -38,78 +43,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pytest_Demo/test_demo1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="25" column="81" selection-start-line="25" selection-start-column="81" selection-end-line="25" selection-end-column="81" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PythonSelenium/test.py">
+        <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson26_Insertion_list.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pytest_Demo/test_logging.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pytest_Demo/BaseClass.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="6" column="86" selection-start-line="6" selection-start-column="86" selection-end-line="6" selection-end-column="86" />
+            <state relative-caret-position="72">
+              <caret line="243" column="23" lean-forward="true" selection-start-line="243" selection-start-column="23" selection-end-line="243" selection-end-column="23" />
               <folding>
-                <element signature="e#0#14#0" expanded="true" />
+                <element signature="e#1534#1544#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pytest_Demo/test_fixtureDemo.py">
+        <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson27_Traversal.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="33" />
+            <state>
+              <caret selection-end-line="14" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pytest_Demo/conftest.py">
+        <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson25_Insertion_graph_structure.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="2751">
+              <caret line="131" column="8" selection-start-line="131" selection-start-column="8" selection-end-line="131" selection-end-column="8" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pytest_Demo/test_fixturesData.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="8" column="34" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="34" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pytest_Demo/logfile.log">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -121,71 +82,75 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>get_valid_word</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/GeeksforGeeks/PythonAdvance/ProblemwithMetaClass.py" />
-        <option value="$PROJECT_DIR$/GeeksforGeeks/PythonAdvance/staticmethod.py" />
-        <option value="$PROJECT_DIR$/AutomationBeginer/hn_news_scraper_no_cred.py" />
-        <option value="$PROJECT_DIR$/WhatsAppAutomation/PythonWhatsAppAutomate.py" />
-        <option value="$PROJECT_DIR$/GeeksforGeeks/Basics/global.py" />
-        <option value="$PROJECT_DIR$/GeeksforGeeks/Basics/Modules.py" />
-        <option value="$PROJECT_DIR$/GeeksforGeeks/Basics/Return_Yield.py" />
-        <option value="$PROJECT_DIR$/GeeksforGeeks/Classes and objects/Classes.py" />
-        <option value="$PROJECT_DIR$/GeeksforGeeks/Classes and objects/Classmethodorstaticmethod.py" />
-        <option value="$PROJECT_DIR$/GeeksforGeeks/Classes and objects/classorstatic.py" />
-        <option value="$PROJECT_DIR$/GeeksforGeeks/Classes and objects/Encapsulation.py" />
-        <option value="$PROJECT_DIR$/GeeksforGeeks/Collections/Deque.py" />
-        <option value="$PROJECT_DIR$/GeeksforGeeks/Collections/NamedTuple.py" />
-        <option value="$PROJECT_DIR$/GeeksforGeeks/ControlFlow/while loop.py" />
-        <option value="$PROJECT_DIR$/GeeksforGeeks/Data structures/Arrays.py" />
-        <option value="$PROJECT_DIR$/GeeksforGeeks/Exception handling/Userdefined.py" />
-        <option value="$PROJECT_DIR$/GeeksforGeeks/FileHandling/FileHandling.py" />
-        <option value="$PROJECT_DIR$/GeeksforGeeks/Function/Closures Usage.py" />
-        <option value="$PROJECT_DIR$/PythonProjects/guess_the_word.py" />
-        <option value="$PROJECT_DIR$/GeeksforGeeks/Exception handling/EException.py" />
-        <option value="$PROJECT_DIR$/PythonProjects/number_guesses.py" />
-        <option value="$PROJECT_DIR$/PythonProjects/quiz_game.py" />
-        <option value="$PROJECT_DIR$/PythonSelenium/demoBrowser.py" />
-        <option value="$PROJECT_DIR$/PythonSelenium/dynamicDropDowns.py" />
-        <option value="$PROJECT_DIR$/PythonSelenium/uiControllers.py" />
-        <option value="$PROJECT_DIR$/PythonSelenium/radioButtons.py" />
-        <option value="$PROJECT_DIR$/PythonSelenium/Alerts.py" />
-        <option value="$PROJECT_DIR$/PythonSelenium/endToEnd.py" />
-        <option value="$PROJECT_DIR$/PythonSelenium/ExplicitWait.py" />
-        <option value="$PROJECT_DIR$/PythonSelenium/testcase2.py" />
-        <option value="$PROJECT_DIR$/PythonSelenium/Testcase.py" />
-        <option value="$PROJECT_DIR$/PythonSelenium/testcase3.py" />
-        <option value="$PROJECT_DIR$/PythonSelenium/ChildWindows.py" />
-        <option value="$PROJECT_DIR$/PythonSelenium/FramesDemo.py" />
-        <option value="$PROJECT_DIR$/PythonSelenium/ActionsDemo.py" />
-        <option value="$PROJECT_DIR$/PythonSelenium/DoubleClick.py" />
-        <option value="$PROJECT_DIR$/PythonSelenium/isDisplayed.py" />
-        <option value="$PROJECT_DIR$/PythonSelenium/jseDemo.py" />
-        <option value="$PROJECT_DIR$/PythonSelenium/chromeOptions.py" />
-        <option value="$PROJECT_DIR$/PythonSelenium/EndToEndPractice.py" />
-        <option value="$PROJECT_DIR$/PythonSelenium/e2etestcase.py" />
-        <option value="$PROJECT_DIR$/pytest/test_demo1.py" />
-        <option value="$PROJECT_DIR$/pytest_Demo/.pytest_cache/test_fixtureDemo.py" />
-        <option value="$PROJECT_DIR$/pytest_Demo/test_fixtureDemo.py" />
-        <option value="$PROJECT_DIR$/pytest_Demo/conftest.py" />
-        <option value="$PROJECT_DIR$/pytest_Demo/test_demo1.py" />
-        <option value="$PROJECT_DIR$/pytest_Demo/test_logging.py" />
-        <option value="$PROJECT_DIR$/pytest_Demo/test_fixturesData.py" />
-        <option value="$PROJECT_DIR$/pytest_Demo/BaseClass.py" />
-        <option value="$PROJECT_DIR$/pytest_Demo/test_demo2.py" />
-        <option value="$PROJECT_DIR$/PythonSelenium/test.py" />
+        <option value="$PROJECT_DIR$/HerotoZero/WebScraping/web_scraping_image.py" />
+        <option value="$PROJECT_DIR$/HerotoZero/WebScraping/WebScraping_book.py" />
+        <option value="$PROJECT_DIR$/HerotoZero/WebScraping/config.json.py" />
+        <option value="$PROJECT_DIR$/HerotoZero/WebScraping/Web_Scraping_Exer.py" />
+        <option value="$PROJECT_DIR$/HerotoZero/WebScraping/web_scraping_with_functions.py" />
+        <option value="$PROJECT_DIR$/HerotoZero/CSV/example.csv" />
+        <option value="$PROJECT_DIR$/HerotoZero/CSV/CSV_file.py" />
+        <option value="$PROJECT_DIR$/12 Beginner Python projects/madlibs.py" />
+        <option value="$PROJECT_DIR$/12 Beginner Python projects/rock_paper_scissors.py" />
+        <option value="$PROJECT_DIR$/12 Beginner Python projects/words.py" />
+        <option value="$PROJECT_DIR$/12 Beginner Python projects/Hangman.py" />
+        <option value="$PROJECT_DIR$/12 Beginner Python projects/GuessTheNumber.py" />
+        <option value="$PROJECT_DIR$/12 Beginner Python projects/test.py" />
+        <option value="$PROJECT_DIR$/12 Beginner Python projects/rps_practise.py" />
+        <option value="$PROJECT_DIR$/12 Beginner Python projects/tips.py" />
+        <option value="$PROJECT_DIR$/Data structures and Algorithms/BigO_Notation.py" />
+        <option value="$PROJECT_DIR$/Data structures and Algorithms/Array.py" />
+        <option value="$PROJECT_DIR$/Data structures and Algorithms/Linked_list.py" />
+        <option value="$PROJECT_DIR$/Data structures and Algorithms/Lesson1-DataStructure.py" />
+        <option value="$PROJECT_DIR$/Data structures and Algorithms/Lesson2-List_and_tuple.py" />
+        <option value="$PROJECT_DIR$/Data structures and Algorithms/Lesson3-Set_and_dictionary.py" />
+        <option value="$PROJECT_DIR$/Data structures and Algorithms/Lesson4-Stack.py" />
+        <option value="$PROJECT_DIR$/Data structures and Algorithms/Lesson5_stack_with_module.py" />
+        <option value="$PROJECT_DIR$/Data structures and Algorithms/Lesson6_queue.py" />
+        <option value="$PROJECT_DIR$/Data structures and Algorithms/Lessson7_Queue_module.py" />
+        <option value="$PROJECT_DIR$/Data structures and Algorithms/Lesson8_PriorityQueue.py" />
+        <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson9_LinkedList.py" />
+        <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson11_LLempty.py" />
+        <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson10_Singly.py" />
+        <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson11_deletion.py" />
+        <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson11_double.py" />
+        <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson1-DataStructure.py" />
+        <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson11_doubleLL.py" />
+        <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson12_circular.py" />
+        <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson12_circularLL.py" />
+        <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson13_DS.py" />
+        <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson14_Tree.py" />
+        <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson15_TreeCharectarisitics.py" />
+        <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson15_TreeCharecteristics.py" />
+        <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson16_BinaryTree.py" />
+        <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson17_BST.py" />
+        <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson18_OperationsBT.py" />
+        <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson19_ImplementBST.py" />
+        <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson20_Insertion.py" />
+        <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson21_BinaryHeap.py" />
+        <option value="$PROJECT_DIR$/Lesson22_HeapQ.py" />
+        <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson23_graph.py" />
+        <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson24_Adjacency matrix.py" />
+        <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson25_Insertion_graph_structure.py" />
+        <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson27_Traversal.py" />
+        <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson26_Insertion_list.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="130" />
-    <option name="y" value="225" />
-    <option name="width" value="1750" />
-    <option name="height" value="560" />
+    <option name="x" value="950" />
+    <option name="width" value="979" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -202,6 +167,11 @@
               <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
               <item name="Practise" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practise" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructuresAndAlgorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -210,16 +180,17 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pytest_Demo/test_fixturesData.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/HerotoZero/Projects 1-3" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -231,12 +202,15 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\slaishet\PycharmProjects\Practise\pytest_Demo" />
-      <recent name="C:\Users\slaishet\PycharmProjects\Practise\GeeksforGeeks" />
-      <recent name="C:\Users\slaishet\PycharmProjects\Practise\GeeksforGeeks\Basics" />
-      <recent name="C:\Users\slaishet\PycharmProjects\Practise\PythonProjects" />
+      <recent name="C:\Users\slaishet\PycharmProjects\Practise\HerotoZero\WebScraping" />
+      <recent name="C:\Users\slaishet\PycharmProjects\Practise\HerotoZero\Projects 1-3" />
+      <recent name="C:\Users\slaishet\PycharmProjects\Practise\Python Automation training\Training Programs" />
+      <recent name="C:\Users\slaishet\PycharmProjects\Practise\100 python exercises" />
+      <recent name="C:\Users\slaishet\PycharmProjects\Practise\100 python exercises\P45" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\slaishet\PycharmProjects\Practise\HerotoZero\Projects 1-3" />
+      <recent name="C:\Users\slaishet\PycharmProjects\Practise\100 python exercises" />
       <recent name="C:\Users\slaishet\PycharmProjects\Practise\WhatsAppAutomation" />
     </key>
   </component>
@@ -252,29 +226,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test">
-    <configuration name="BaseClass" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Practise" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytest_Demo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytest_Demo/BaseClass.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Lesson26_Insertion_list">
     <configuration name="EndToEndPractice" type="PythonConfigurationType" factoryName="Python">
       <module name="Practise" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -289,6 +241,116 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonSelenium/EndToEndPractice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lesson19_ImplementBST" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataStructuresAndAlgorithms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson19_ImplementBST.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lesson20_Insertion" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataStructuresAndAlgorithms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson20_Insertion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lesson22_HeapQ" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson22_HeapQ.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lesson25_Insertion_graph_structure" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataStructuresAndAlgorithms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson25_Insertion_graph_structure.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lesson26_Insertion_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataStructuresAndAlgorithms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson26_Insertion_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -319,91 +381,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="e2etestcase" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Practise" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonSelenium" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonSelenium/e2etestcase.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Practise" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonSelenium" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonSelenium/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test_demo1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Practise" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytest" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytest/test_demo1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test_fixtureDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Practise" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytest_Demo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytest_Demo/test_fixturesData.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="pytest in test_fixturesData.py" type="tests" factoryName="py.test" nameIsGenerated="true">
       <module name="Practise" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -422,20 +399,20 @@
     </configuration>
     <list>
       <item itemvalue="Python.EndToEndPractice" />
-      <item itemvalue="Python.e2etestcase" />
-      <item itemvalue="Python.test_demo1" />
-      <item itemvalue="Python.test_fixtureDemo" />
-      <item itemvalue="Python.BaseClass" />
-      <item itemvalue="Python.test" />
+      <item itemvalue="Python.Lesson19_ImplementBST" />
+      <item itemvalue="Python.Lesson20_Insertion" />
+      <item itemvalue="Python.Lesson22_HeapQ" />
+      <item itemvalue="Python.Lesson25_Insertion_graph_structure" />
+      <item itemvalue="Python.Lesson26_Insertion_list" />
       <item itemvalue="Python tests.pytest in test_fixturesData.py" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.BaseClass" />
-        <item itemvalue="Python.test_fixtureDemo" />
-        <item itemvalue="Python.test_demo1" />
-        <item itemvalue="Python.e2etestcase" />
+        <item itemvalue="Python.Lesson26_Insertion_list" />
+        <item itemvalue="Python.Lesson25_Insertion_graph_structure" />
+        <item itemvalue="Python.Lesson22_HeapQ" />
+        <item itemvalue="Python.Lesson20_Insertion" />
+        <item itemvalue="Python.Lesson19_ImplementBST" />
       </list>
     </recent_temporary>
   </component>
@@ -475,26 +452,48 @@
       <workItem from="1647592489203" duration="30246000" />
       <workItem from="1647688169328" duration="1090000" />
       <workItem from="1647689312847" duration="16222000" />
-      <workItem from="1648536461685" duration="1946000" />
+      <workItem from="1648536461685" duration="19153000" />
+      <workItem from="1648809095775" duration="13366000" />
+      <workItem from="1648999011127" duration="3217000" />
+      <workItem from="1649047803491" duration="4930000" />
+      <workItem from="1649065383748" duration="3775000" />
+      <workItem from="1649649742511" duration="1317000" />
+      <workItem from="1649651699648" duration="8600000" />
+      <workItem from="1649743842343" duration="2245000" />
+      <workItem from="1649753426952" duration="4961000" />
+      <workItem from="1649846718797" duration="13000" />
+      <workItem from="1650251074634" duration="5074000" />
+      <workItem from="1650263788983" duration="1014000" />
+      <workItem from="1650368530158" duration="609000" />
+      <workItem from="1651141729240" duration="4082000" />
+      <workItem from="1651211586611" duration="5153000" />
+      <workItem from="1651469115626" duration="618000" />
+      <workItem from="1651896611957" duration="7984000" />
+      <workItem from="1652076277907" duration="12898000" />
+      <workItem from="1652112039135" duration="4547000" />
+      <workItem from="1652163929774" duration="13123000" />
+      <workItem from="1653309695400" duration="539000" />
+      <workItem from="1653313649455" duration="16909000" />
+      <workItem from="1653629750376" duration="10406000" />
+      <workItem from="1653838556544" duration="664000" />
+      <workItem from="1654325722542" duration="346000" />
+      <workItem from="1654343898702" duration="2978000" />
+      <workItem from="1654510619066" duration="12539000" />
+      <workItem from="1654669082330" duration="26625000" />
+      <workItem from="1654856217432" duration="6792000" />
+      <workItem from="1655033135833" duration="10697000" />
+      <workItem from="1655189194647" duration="9131000" />
+      <workItem from="1655208516958" duration="1743000" />
+      <workItem from="1655300921006" duration="5305000" />
+      <workItem from="1655385752692" duration="32330000" />
+      <workItem from="1655874964018" duration="10000" />
+      <workItem from="1655904339457" duration="4040000" />
+      <workItem from="1656308263282" duration="24235000" />
+      <workItem from="1656670853915" duration="338000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_in_test_demo1_py - 2022.03.19 at 19h 33m 14s.xml">
-      <configuration name="pytest in test_demo1.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_fixturesData_py - 2022.03.19 at 21h 25m 16s.xml">
-      <configuration name="pytest in test_fixturesData.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_fixturesData_py - 2022.03.19 at 21h 26m 18s.xml">
-      <configuration name="pytest in test_fixturesData.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_fixturesData_py - 2022.03.19 at 21h 27m 31s.xml">
-      <configuration name="pytest in test_fixturesData.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_demo1_py - 2022.03.19 at 21h 31m 17s.xml">
-      <configuration name="pytest in test_demo1.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="pytest_in_test_demo1_py - 2022.03.19 at 21h 33m 01s.xml">
       <configuration name="pytest in test_demo1.py" configurationId="tests" />
     </history-entry>
@@ -510,9 +509,24 @@
     <history-entry file="pytest_in_test_fixturesData_py - 2022.03.20 at 08h 33m 55s.xml">
       <configuration name="pytest in test_fixturesData.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Doctests_in_master_yoda - 2022.05.09 at 21h 58m 33s.xml">
+      <configuration name="Doctests in master_yoda" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_master_yoda - 2022.05.09 at 21h 59m 09s.xml">
+      <configuration name="Doctests in master_yoda" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_master_yoda - 2022.05.09 at 22h 00m 32s.xml">
+      <configuration name="Doctests in master_yoda" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_master_yoda - 2022.05.09 at 22h 01m 34s.xml">
+      <configuration name="Doctests in master_yoda" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_master_yoda - 2022.05.09 at 22h 01m 41s.xml">
+      <configuration name="Doctests in master_yoda" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="199682000" />
+    <option name="totallyTimeSpent" value="480042000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -526,7 +540,32 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13825503" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34630874" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32761088" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4631728" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.398017" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="9" weight="0.32719547" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067115" side_tool="true" weight="0.3654391" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.62181306" />
+      <window_info anchor="bottom" x="769" y="30" width="767" height="793" id="Python Console" order="12" sideWeight="0.49932885" weight="0.32152975" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.3295302" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.29597315" />
+      <window_info anchor="right" id="Database" order="5" sideWeight="0.49776787" weight="0.3295302" />
+      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="6" sideWeight="0.50223213" side_tool="true" weight="0.29597315" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13825503" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -540,8 +579,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.6359773" />
-      <window_info anchor="bottom" x="32" y="526" width="1490" height="263" id="Python Console" order="12" weight="0.40934843" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.6359773" />
+      <window_info anchor="bottom" x="32" y="526" width="1490" height="263" id="Python Console" order="12" visible="true" weight="0.40934843" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -549,34 +588,50 @@
       <window_info anchor="right" id="SciView" order="4" weight="0.3295302" />
       <window_info anchor="right" id="Database" order="5" weight="0.3295302" />
       <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="6" side_tool="true" weight="0.24630873" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25704697" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Remote Host" order="3" />
-      <window_info anchor="right" id="SciView" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -605,6 +660,16 @@
           <line>8</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HerotoZero/WebScraping/WebScraping_book.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/12BeginnerPythonprojects/Hangman.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -623,343 +688,367 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/GeeksforGeeks/PythonAdvance/Files.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksforGeeks/PythonAdvance/Functional Programming.py">
+    <entry file="file://$PROJECT_DIR$/HerotoZero/CSV/example.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-185" />
+        <state relative-caret-position="294">
+          <caret line="1000" column="81" selection-start-line="1000" selection-start-column="81" selection-end-line="1000" selection-end-column="81" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksforGeeks/PythonAdvance/HigherOrder.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksforGeeks/PythonAdvance/Map.py">
+    <entry file="file://$PROJECT_DIR$/HerotoZero/WebScraping/web_scraping_with_functions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-248" />
+        <state relative-caret-position="861">
+          <caret line="42" column="39" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HerotoZero/CSV/CSV_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/GeeksforGeeks/PythonAdvance/Meta without type.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksforGeeks/PythonAdvance/ProblemwithMetaClass.py">
+    <entry file="file://$PROJECT_DIR$/GeeksforGeeks/PythonAdvance/OS module.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GeeksforGeeks/Input_Output/List_comprehension.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HerotoZero/WebScraping/web_scraping.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1571" />
+        <state relative-caret-position="273">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksforGeeks/PythonAdvance/staticmethod.py">
+    <entry file="file://$PROJECT_DIR$/PythonProjects/quiz_game.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksforGeeks/Regex/Backslash.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksforGeeks/Regex/Password.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksforGeeks/PythonAdvance/Metaprogramming.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-315" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonProjects/Hangman.py">
+    <entry file="file://$PROJECT_DIR$/PythonProjects/rock_paper_scissor.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/PythonProjects/HelloWorld.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksforGeeks/Basics/Exception_handling.py">
+    <entry file="file://$PROJECT_DIR$/12BeginnerPythonprojects/GuessTheNumber.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-315" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksforGeeks/Exception handling/EException.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        <state relative-caret-position="168">
+          <caret line="8" column="50" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PythonProjects/number_guesses.py">
+    <entry file="file://$PROJECT_DIR$/12BeginnerPythonprojects/madlibs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="252">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12BeginnerPythonprojects/rock_paper_scissors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="19" selection-start-line="18" selection-start-column="4" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12BeginnerPythonprojects/rps_practise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12BeginnerPythonprojects/tips.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="104" column="4" selection-start-line="104" selection-start-column="4" selection-end-line="104" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PythonProjects/Digital_clock.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        <state relative-caret-position="294">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WhatsAppAutomation/PythonWhatsAppAutomate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonProjects/quiz_game.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-164">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonProjects/rock_paper_scissor.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6568">
-          <caret line="1189" column="21" lean-forward="true" selection-start-line="1189" selection-start-column="21" selection-end-line="1189" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonProjects/guess_the_word.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonSelenium/demoBrowser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="131" lean-forward="true" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="131" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonSelenium/dynamicDropDowns.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonSelenium/uiControllers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonSelenium/endToEnd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="28" column="53" lean-forward="true" selection-end-line="28" selection-end-column="53" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonSelenium/Testcase.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="30" column="67" selection-start-line="30" selection-start-column="67" selection-end-line="30" selection-end-column="67" />
-          <folding>
-            <element signature="e#144#155#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonSelenium/testcase3.py">
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/BigO_Notation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="10" selection-start-line="10" selection-end-line="19" selection-end-column="62" />
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PythonSelenium/FramesDemo.py">
+    <entry file="file://$PROJECT_DIR$/12BeginnerPythonprojects/Hangman.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="7" selection-end-column="55" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonSelenium/ChildWindows.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="7" selection-end-column="56" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonSelenium/ActionsDemo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="30" lean-forward="true" selection-start-column="30" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonSelenium/DoubleClick.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="10" column="73" selection-start-line="10" selection-start-column="73" selection-end-line="10" selection-end-column="73" />
-          <folding>
-            <element signature="e#70#100#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonSelenium/jseDemo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" selection-start-line="2" selection-end-line="8" selection-end-column="61" />
-          <folding>
-            <element signature="e#133#163#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonSelenium/chromeOptions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="43" />
-          <folding>
-            <element signature="e#1#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonSelenium/Alerts.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="4" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonSelenium/EndToEndPractice.py" />
-    <entry file="file://$PROJECT_DIR$/PythonSelenium/radioButtons.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="36" lean-forward="true" selection-end-line="4" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonSelenium/isDisplayed.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="47" lean-forward="true" selection-end-line="6" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonSelenium/ExplicitWait.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-          <folding>
-            <element signature="e#61#72#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonSelenium/testcase2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#185#196#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonSelenium/e2etestcase.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="693">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pytest/test_demo1.py" />
-    <entry file="file://$PROJECT_DIR$/pytest_Demo/test_demo2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pytest_Demo/test_demo1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="25" column="81" selection-start-line="25" selection-start-column="81" selection-end-line="25" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pytest_Demo/test_logging.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pytest_Demo/BaseClass.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="6" column="86" selection-start-line="6" selection-start-column="86" selection-end-line="6" selection-end-column="86" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pytest_Demo/test_fixtureDemo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pytest_Demo/conftest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pytest_Demo/test_fixturesData.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="8" column="34" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="34" />
+        <state relative-caret-position="235">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pytest_Demo/logfile.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pytest_Demo/report.html">
+    <entry file="file://$PROJECT_DIR$/12BeginnerPythonprojects/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        <state relative-caret-position="362">
+          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PythonSelenium/test.py">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/random.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        <state relative-caret-position="99">
+          <caret line="257" selection-start-line="257" selection-end-line="257" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12BeginnerPythonprojects/words.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" selection-start-column="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="79" column="41" selection-start-line="79" selection-start-column="41" selection-end-line="79" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Linked_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson2-List_and_tuple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson3-Set_and_dictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="72" selection-start-line="2" selection-start-column="72" selection-end-line="2" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson5_stack_with_module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lessson7_Queue_module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson9_LinkedList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson11_LLempty.py" />
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson1-DataStructure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson11_doubleLL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1137">
+          <caret line="140" column="32" selection-start-line="140" selection-start-column="32" selection-end-line="140" selection-end-column="32" />
+          <folding>
+            <element signature="e#844#1123#0" />
+            <element signature="e#1214#1363#0" />
+            <element signature="e#1434#1641#0" />
+            <element signature="e#1708#1957#0" />
+            <element signature="e#2024#2584#0" />
+            <element signature="e#2653#3222#0" />
+            <element signature="e#3315#3594#0" />
+            <element signature="e#3647#3975#0" />
+            <element signature="e#4040#4939#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson10_Singly.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="12" selection-start-line="12" selection-end-line="19" selection-end-column="24" />
+          <folding>
+            <element signature="e#508#706#0" />
+            <element signature="e#769#852#0" />
+            <element signature="e#910#1126#0" />
+            <element signature="e#1246#1609#0" />
+            <element signature="e#1673#2279#0" />
+            <element signature="e#2349#2497#0" />
+            <element signature="e#2559#2691#0" />
+            <element signature="e#2750#3026#0" />
+            <element signature="e#3094#3522#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson4-Stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-252">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson6_queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="64" column="16" selection-start-line="64" selection-start-column="11" selection-end-line="64" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson8_PriorityQueue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="53" column="55" selection-start-line="53" selection-start-column="55" selection-end-line="53" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson12_circularLL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson13_DS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson14_Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson15_TreeCharecteristics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="31" column="2" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson16_BinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson17_BST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson18_OperationsBT.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="48" column="10" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson19_ImplementBST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" selection-start-line="2" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson20_Insertion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2121">
+          <caret line="117" column="23" selection-start-line="117" selection-start-column="23" selection-end-line="117" selection-end-column="23" />
+          <folding>
+            <element signature="e#829#1310#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson21_BinaryHeap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="60" column="4" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson22_HeapQ.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson23_graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="605">
+          <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson24_Adjacency matrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson26_Insertion_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="243" column="23" lean-forward="true" selection-start-line="243" selection-start-column="23" selection-end-line="243" selection-end-column="23" />
+          <folding>
+            <element signature="e#1534#1544#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson27_Traversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson25_Insertion_graph_structure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2751">
+          <caret line="131" column="8" selection-start-line="131" selection-start-column="8" selection-end-line="131" selection-end-column="8" />
         </state>
       </provider>
     </entry>

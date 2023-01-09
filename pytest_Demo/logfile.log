@@ -1,0 +1,14 @@
+2022-03-20 08:20:06,494 :INFO : pytest_Demo.test_logging : Inforamtion statement
+2022-03-20 08:20:06,495 :WARNING : pytest_Demo.test_logging : Something is in warning mode
+2022-03-20 08:20:06,495 :ERROR : pytest_Demo.test_logging : A major error has happened
+2022-03-20 08:20:06,495 :CRITICAL : pytest_Demo.test_logging : Critical issue
+2022-03-20 08:31:33,240 :INFO : pytest_Demo.BaseClass : Rahul
+2022-03-20 08:31:33,240 :INFO : pytest_Demo.BaseClass : rahulshetty@gmail.com
+2022-03-20 08:33:55,895 :INFO : pytest_Demo.BaseClass : Rahul
+2022-03-20 08:33:55,896 :INFO : pytest_Demo.BaseClass : rahulshetty@gmail.com
+2022-03-20 08:37:15,988 :INFO : test_editProfile2 : Rahul
+2022-03-20 08:37:15,990 :INFO : test_editProfile2 : rahulshetty@gmail.com
+2022-03-20 08:37:15,993 :INFO : pytest_Demo.test_logging : Inforamtion statement
+2022-03-20 08:37:15,993 :WARNING : pytest_Demo.test_logging : Something is in warning mode
+2022-03-20 08:37:15,994 :ERROR : pytest_Demo.test_logging : A major error has happened
+2022-03-20 08:37:15,994 :CRITICAL : pytest_Demo.test_logging : Critical issue

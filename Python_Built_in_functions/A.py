@@ -140,7 +140,7 @@ def enumerate(iterable,start=0)
         
 """
 
-# eval - Evaluates and executes an experssion.
+# eval - Evaluates and executes an expression.
 x = 'print(55)'
 eval(x)
 

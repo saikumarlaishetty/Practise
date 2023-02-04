@@ -1,19 +1,21 @@
 # iterate with enumerate() instead of range(len())
 
+
+# This helps to get a list with only numbers greater than 0 and negative numbers to zero.
 data = [1,2,-2,-4]
 for i in range(len(data)):
     if data[i] < 0:
         data[i] =0
 
-print(data)
+print(data)     # output [1, 2, 0, 0]
 
-
+# This helps to get a list with only numbers greater than 0 and negative numbers to zero.
 data = [1,2,-2,-4]
 for idx,num in enumerate(data):
     if num < 0:
         data[idx] = 0
 
-print(data)
+print(data)   # output [1, 2, 0, 0]
 
 # 2) list comprehensions
 squares = []

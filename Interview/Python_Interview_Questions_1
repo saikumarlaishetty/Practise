@@ -1,0 +1,301 @@
+# Concatenate the string
+
+s="abcdbbbaacc"
+s = s+'g'
+print(s)
+
+# As a string is immutable
+s = s+'hcl'
+print("s--> ",s)
+
+# How to get second value in a dictionary ?
+dict={1:'one',2:'two',3:'three',4:'four'}
+
+for key,value in dict.items():
+    if key is 2:
+        print("Value of 2nd item in dictionary ",dict[key])
+    else:
+        print("Not present")
+
+
+# how to get second value in a dictionary using list
+
+dict={1:'one',2:'two',3:'three',4:'four'}
+l2 = list(dict.values())
+print(l2[1])
+
+
+# Program to convert  1 to 0, and 0 to 1 for below string input
+Str = "10001"
+str1 = ""
+for i in Str:
+    if i is '1':
+        str1 = str1 + '0'
+    elif i is '0':
+        str1 = str1 + '1'
+    else:
+        pass
+
+print(str1)
+
+# 3. Swap the numbers without using extra variable
+
+a = 3
+b = 4
+
+a,b = b,a
+print(a,b)
+
+# or
+
+a = 3
+b = 4
+
+a = a+b
+b = a-b
+a = a-b
+print(a)
+print(b)
+
+# 5. program to print prime numbers from list [1,2,3,4,5]
+
+l = [1,2,3,4,5]
+print([i for i in l if i%2 !=0])
+
+# 6. Write a program to get the .jpg extension elements from list.
+
+list=["c.txt","a.jpg","b.jpg","c.mpg"]
+
+for i in list:
+    if i.endswith('.jpg'):
+        print(i)
+
+# 7. regexp for valid ip address
+
+ipaddress="255.255.255.255"
+
+
+
+
+
+
+# 9. write a program to find the string in file[through file opening]
+
+import re
+
+#f = open('a.txt','r')
+#str = f.read()
+str = "Going to HC company"
+
+n = re.search("HCL",str,re.I)
+if n != None:
+    print("Strings are matched")
+else:
+    print("Strings not matched")
+
+
+
+# 10. Remove duplicate characters in string and print it
+
+string = "abcdbbbaacc"
+s = ''
+for i in string:
+    if i not in s:
+        s += i
+
+print(s)
+
+string = "abcdbbbaacc"
+print(set(string))
+
+
+# 11. Reverse the given string
+
+a='hello'
+print(a[::-1])
+
+s =""
+for i in range(len(a)-1,-1,-1):
+    s += a[i]
+
+print(s)
+
+txt = "helloworld"[::-1]
+print(txt)
+
+
+b = "Hello"
+i = ''
+for j in b:
+    i = j + i
+    #print(i)
+
+print(i)
+
+
+# Reverse a string using python recursion
+
+def rev(s):
+    if len(s) == 0:
+        return s
+    else:
+        return rev(s[1:])+s[0]
+
+
+print(rev("SAI KUMAR"))
+
+
+s = "HelloWorld"
+print("".join(reversed(s)))
+
+
+# 12. print list in descending order
+
+a=[1,6,9,4,5,2]
+
+a.sort(reverse=True)
+print(a)
+
+
+a=[1,2,3,4,5,6]
+b=a
+for i in range(len(a)-1):
+    for j in range(len(b)-1):
+        if b[j]<b[j+1]:
+            temp=b[j]
+            b[j]=b[j+1]
+            b[j+1]=temp
+print(b)
+
+
+a = [10,9,30,4,5,6]
+b = []
+
+while a:
+    min = a[0]
+    for x in a :
+        if x < min:
+            min = x
+
+    b.append(min)
+    a.remove(min)
+
+
+# 13. Print Second largest number in List
+
+l=[1,2,3,4,5,90,80,100]
+
+l.remove(max(l))
+print(max(l))
+
+l=[1,2,3,4,5,90,80,100]
+l.sort()
+print(l[-2])
+
+# 14. Fibonaaci Series Program
+
+n = 5
+
+a = 0
+b = 1
+
+print(a)
+
+for i in range(n):
+    print(b)
+    a,b = b,a+b
+
+
+
+# 15. Palindrome Program
+
+s='madam'
+
+if s == s[::-1]:
+    print("Palindorme")
+else:
+    print("not palindrome")
+
+
+# 16. Factorial number program
+
+n = 5
+f = 1
+
+for i in range(n,1,-1):
+    f = f*i
+    #print(f,i)
+
+print(f)
+
+
+# #count no of repeated elements in a string
+
+f = "1122345555"
+n = 0
+s = {}
+for i in f:
+    if i in s:
+        s[i] += 1
+    else:
+        s[i] = 1
+
+print(s)
+
+import collections
+
+d = collections.defaultdict(int)
+for c in f:
+    d[c] += 1
+
+print(d)
+
+for c in sorted(d, key=d.get, reverse=True):
+  print('%s %6d' % (c, d[c]))
+
+
+#first reverse the word and reverse the alternate word
+
+"""
+['aidni', 'ni', 'akatanarak', 'ni', 'erolgnab', 'ni', 'gnikrow', 'ma', 'i']
+india ni karanataka ni banglore ni working ma i
+
+"""
+
+a = "i am working in banglore in karanataka in india"
+
+a =a[::-1]
+print(a)
+b = a.split(" ")
+print(b)
+c = []
+for i in range(len(b)):
+    if i%2 == 0:
+        c.append(b[i][::-1])
+    else:
+        c.append(b[i])
+print(c)
+
+
+# #write a program to collect strings if first and last character is same
+
+i  = ["abc","xyx","abca","cdgff","daassd","sai"]
+
+for j in i:
+    if j[0] == j[-1]:
+        print(j)
+
+# sort elements in list based on second index of sublist tuple
+a = [(2, 4), (1, 2), (3, 0), (4, 3)]
+for i in range(len(a)):
+    print("First loop -->",i)
+    for i in range(len(a) - 1):
+        print("second loop -->",i)
+        if a[i][1] > a[i + 1][1]:
+            t = a[i]
+            a[i] = a[i + 1]
+            a[i + 1] = t
+            print(a)
+
+print(a)
+

@@ -1,4 +1,4 @@
-# Charecteristics of Tree
+# Charectaristics of Tree
 
 # Root Node: Top most node
 # A tree can contain only one root node

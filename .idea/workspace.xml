@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e695e0c-1065-4d81-b4cc-ab86b5683fe8" name="Default Changelist" comment="Daily email digest archietcture">
-      <change afterPath="$PROJECT_DIR$/Python_Built_in_functions/File_Methods.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12BeginnerPythonprojects/tips.py" beforeDir="false" afterPath="$PROJECT_DIR$/12BeginnerPythonprojects/tips.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson15_TreeCharecteristics.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson15_TreeCharecteristics.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructuresAndAlgorithms/Lessson7_Queue_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson7_Queue_module.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeeksforGeeks/Classes and objects/TypesofInheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/GeeksforGeeks/Classes and objects/TypesofInheritance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/Python_Interview_Questions_1" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/Python_Interview_Questions_1" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +20,7 @@
     <SUITE FILE_PATH="coverage/Practise$Scope_of_objbect.coverage" NAME="Scope_of_objbect Coverage Results" MODIFIED="1675251445853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Basics" />
     <SUITE FILE_PATH="coverage/Practise$Set_Methods.coverage" NAME="Set_Methods Coverage Results" MODIFIED="1674527839271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Built_in_functions" />
     <SUITE FILE_PATH="coverage/Practise$Cows_and_bulls.coverage" NAME="Cows_and_bulls Coverage Results" MODIFIED="1671789804266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VamsiBhavani Telugu" />
+    <SUITE FILE_PATH="coverage/Practise$game.coverage" NAME="game Coverage Results" MODIFIED="1675874366626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MasterMindGame" />
     <SUITE FILE_PATH="coverage/Practise$List_Methods.coverage" NAME="List Methods Coverage Results" MODIFIED="1674298832402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Built_in_functions" />
     <SUITE FILE_PATH="coverage/Practise$tips.coverage" NAME="tips Coverage Results" MODIFIED="1675222374583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12BeginnerPythonprojects" />
     <SUITE FILE_PATH="coverage/Practise$logical_Operator.coverage" NAME="logical_Operator Coverage Results" MODIFIED="1675251302817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Basics" />
@@ -34,16 +31,25 @@
     <SUITE FILE_PATH="coverage/Practise$Tuple_Methods.coverage" NAME="Tuple_Methods Coverage Results" MODIFIED="1674475394308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Built_in_functions" />
     <SUITE FILE_PATH="coverage/Practise$A.coverage" NAME="A Coverage Results" MODIFIED="1673928713374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Built_in_functions" />
     <SUITE FILE_PATH="coverage/Practise$statement.coverage" NAME="statement Coverage Results" MODIFIED="1675251476817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Basics" />
-    <SUITE FILE_PATH="coverage/Practise$Python_Interview_Questions_1.coverage" NAME="Python_Interview_Questions_1 Coverage Results" MODIFIED="1675507211911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview" />
+    <SUITE FILE_PATH="coverage/Practise$Python_Interview_Questions_1.coverage" NAME="Python_Interview_Questions_1 Coverage Results" MODIFIED="1675507727425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview" />
     <SUITE FILE_PATH="coverage/Practise$classorstatic.coverage" NAME="classorstatic Coverage Results" MODIFIED="1675251906076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Classes and objects" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Interview/Python_Interview_Questions_1">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="291" column="4" selection-start-line="291" selection-start-column="4" selection-end-line="291" selection-end-column="4" />
+            <state relative-caret-position="644">
+              <caret line="294" column="37" selection-start-line="294" selection-start-column="37" selection-end-line="294" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MasterMindGame/game.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="75" column="35" selection-start-line="75" selection-start-column="35" selection-end-line="75" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -88,6 +94,7 @@
         <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson15_TreeCharecteristics.py" />
         <option value="$PROJECT_DIR$/GeeksforGeeks/Classes and objects/TypesofInheritance.py" />
         <option value="$PROJECT_DIR$/Interview/Python_Interview_Questions_1" />
+        <option value="$PROJECT_DIR$/MasterMindGame/game.py" />
       </list>
     </option>
   </component>
@@ -102,17 +109,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practise" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -123,7 +119,18 @@
             <path>
               <item name="Practise" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Interview" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="MasterMindGame" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practise" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -153,7 +160,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Python_Interview_Questions_1">
+  <component name="RunManager" selected="Python.game">
     <configuration name="Classes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practise" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -242,7 +249,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="statement" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="game" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -250,12 +257,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GeeksforGeeks/Basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MasterMindGame" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GeeksforGeeks/Basics/statement.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MasterMindGame/game.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -266,11 +273,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.game" />
         <item itemvalue="Python.Python_Interview_Questions_1" />
         <item itemvalue="Python.classorstatic" />
         <item itemvalue="Python.Classmethodorstaticmethod" />
         <item itemvalue="Python.Classes" />
-        <item itemvalue="Python.statement" />
       </list>
     </recent_temporary>
   </component>
@@ -294,7 +301,8 @@
       <workItem from="1673846114395" duration="31961000" />
       <workItem from="1674630073346" duration="1188000" />
       <workItem from="1675221823624" duration="9469000" />
-      <workItem from="1675318111995" duration="7717000" />
+      <workItem from="1675318111995" duration="9396000" />
+      <workItem from="1675870210253" duration="2634000" />
     </task>
     <task id="LOCAL-00001" summary="Daily email digest archietcture">
       <created>1673241695142</created>
@@ -307,18 +315,18 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75901000" />
+    <option name="totallyTimeSpent" value="80214000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18283582" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20309168" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32896176" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24918033" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3431694" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -374,9 +382,6 @@
     <state width="267" height="288" key="Git.Branch.Popup@1920.1080" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/GeeksforGeeks/Basics/Modules.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/GeeksforGeeks/Basics/Namespace.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -622,8 +627,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Interview/Python_Interview_Questions_1">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="291" column="4" selection-start-line="291" selection-start-column="4" selection-end-line="291" selection-end-column="4" />
+        <state relative-caret-position="644">
+          <caret line="294" column="37" selection-start-line="294" selection-start-column="37" selection-end-line="294" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MasterMindGame/game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="75" column="35" selection-start-line="75" selection-start-column="35" selection-end-line="75" selection-end-column="35" />
         </state>
       </provider>
     </entry>

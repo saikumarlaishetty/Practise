@@ -1,0 +1,148 @@
+
+===================================================
+COMPLETED:
+===================================================
+OS
+ARGPARSE
+BEAUTIFUL SOUP - Webscraping
+SHUTIL
+REQUESTS
+SYS
+SUBPROCESS
+===================================================
+PENDING :
+===================================================
+
+
+RE
+SOCKET
+TIME
+Difference b/w SUBPROCESS and OS
+
+=============
+
+Network Protocol Automation :-
+===============================
+
+1) telnet   -   import telnetlib  ( works mostly on LINUX/UNIX/MAC )
+
+2) ssh      -   import paramiko   ( works mostly on LINUX/UNIX/MAC )
+                                  (popular library)
+                or
+                import netmiko
+
+3) ftp      -   import ftplib
+
+4) smtp     -   import smtp
+
+
+import glob
+
+import configparser
+
+import CSV
+
+import json
+
+import yaml
+
+from html.parser import HTMLParser
+
+import xml
+
+Web Automation :-
+==================
+1) WebServer      - HTTP server(tomcat-apache,
+                                websphere,
+                                weblogic,
+                                IIS server,
+                                JWS)
+2) WebClient      - WEB Browser
+3) Http & Https   - raw & Secured
+4) HTML & scripts -
+5) HTTP METHODS   - put/get/post/delete
+6) what is parsing  - html/json/xml (very powerful)
+7) What is REST API -
+8) What is scraping    -  send requests + filter the data
+9) What is webcrawlers -  send requests + filter + recursively
+
+
+How to do we send a WEB/HTTP REQUEST using python:-
+----------------------------------------------------
+>> POST/GET              - web browser
+>> POST/GET/PUT/DELETE   - POSTMAN
+
+
+import urllib.request
+
+
+============
+
+
+what is Call back functions ?
+===============================
+>> Even Driven
+>> Signalling
+>> Alaram
+>> Listeners
+>> Threading
+
+
+================
+
+Specify the PARSER explicilty:-
+================================
+html.parser - BeautifulSoup(markup, "html.parser")
+
+lxml - BeautifulSoup(markup, "lxml")
+
+html5lib - BeautifulSoup(markup, "html5lib")
+
+
+html.parser - inbuilt/corelib
+            - no extra dependencies needed
+
+html5lib   - pure python lib
+           - the most lenient
+           - better use it if HTML is broken
+           - externally dependent on Python libraries
+           - standard used major webbrowsers
+           $ pip install html5lib
+
+lxml  - very fast
+      - dependent on "C"
+      - repo lib
+
+=====================
+
+import mechanize
+
+from selenium import webdriver
+
+=================
+Demo for REST API:-
+--------------------
+
+from flask import Flask,jsonify
+
+app = Flask(__name__)
+
+@app.route("/", methods=["GET"])
+def function():
+   return jsonify({"message": "welcome to Python"}), 200
+
+
+if __name__ == "__main__":
+   app.run(host="0.0.0.0", debug=True, port=6000)
+
+
+what is the diff b/w POST & PUT ?
+  POST - create new record
+  PUT  - modify the record
+  DEL  - delete a record
+  GET  - get result from API
+
+ ===============================
+
+ import scrapy
+

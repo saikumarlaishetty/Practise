@@ -13,6 +13,8 @@ page = requests.get(url).text
 doc = BeautifulSoup(page,"html.parser")
 
 page_text = doc.find(class_='list-tool-pagination-text').strong
+# print(page_text)
+
 pages = int(str(page_text).split("/")[-2].split('>')[-1][:-1])
 # print(pages)
 
@@ -27,6 +29,9 @@ for page in range(1,pages+1):
 
     items = div.find_all(text=re.compile(search_term))     # if you just use text = "gpu" it will only match "gpu" but not "gpu oo1"
                                                             # so we are using a re.compile to match both "gpu" and "gpu 001"
+
+    import pdb
+    pdb.set_trace()
     for item in items:
         parent = item.parent
         link = None

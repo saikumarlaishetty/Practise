@@ -1,16 +1,16 @@
 # https://www.youtube.com/watch?v=gRLHr664tXA&list=PLzMcBGfZo4-lSq2IDrA6vpZEV92AmQfJK
 
-# from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup
 
-# with open("index.html","r") as f:
-#    doc = BeautifulSoup(f,"html.parser")
-
+with open("index.html","r") as f:
+    doc = BeautifulSoup(f,"html.parser")
+#
 # print the html doc in readable pretty model.
 # print(doc.prettify())
 
 # find by tag name
-# tag = doc.title
-# print(tag)
+tag = doc.title
+# print(tag)      # <title>Your Title Here</title>
 
 # find the string inside the tag
 # print(tag.string)
@@ -26,8 +26,8 @@
 # print(tags)
 
 # how to access the nested tags and how  to print the inside tags
-# tags = doc.find_all("p")[0]
-# print(tags.find_all("b"))
+tags = doc.find_all("p")[0]
+print(tags.find_all("b"))
 
 
 
@@ -57,7 +57,7 @@ doc = BeautifulSoup(result.text,"html.parser")
 # ##### Beautiful soup is a tree like structure.
 
 # Locating text
-prices = doc.find_all(text="$")
-parent = prices[0].parent
-price = parent.find("strong")
-print(price.string)
+# prices = doc.find_all(text="$")
+# parent = prices[0].parent
+# price = parent.find("strong")
+# print(price.string)

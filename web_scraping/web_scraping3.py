@@ -5,17 +5,18 @@ url = "https://coinmarketcap.com/"
 result = requests.get(url).text
 doc = BeautifulSoup(result,"html.parser")
 
-#tbody = doc.tbody
+tbody = doc.tbody
 
 # To get the contents or to get the list of all the tags inside the tbody
 # trs = tbody.contents
-#print(trs)
+# print(trs[0])
+
 
 # Tree siblings
 # To get the next sibling
 # print(trs[0].next_sibling)
-
-# To get the previous sibling
+#
+# # To get the previous sibling
 # print(trs[1].previous_sibling)
 
 # To get the next siblings
@@ -48,6 +49,8 @@ prices = {}
 
 for tr in trs[:10]:
     name, price = tr.contents[2:4]
+    import pdb
+    pdb.set_trace()
     fixed_name = name.p.string
     fixed_price = price.a.string
     prices[fixed_name] = fixed_price

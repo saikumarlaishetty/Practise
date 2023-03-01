@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e695e0c-1065-4d81-b4cc-ab86b5683fe8" name="Default Changelist" comment="Daily email digest archietcture">
-      <change afterPath="$PROJECT_DIR$/web_scraping/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_scraping/index2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_scraping/web_scraping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_scraping/web_scraping2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_scraping/web_scraping3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_scraping/web_scraping4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/os_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_scraping/Web_Scrapping_geeks/web_scrapping.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_scraping/web_scraping.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_scraping/web_scraping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_scraping/web_scraping3.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_scraping/web_scraping3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_scraping/web_scraping4.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_scraping/web_scraping4.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,13 +21,14 @@
     <SUITE FILE_PATH="coverage/Practise$Classmethodorstaticmethod.coverage" NAME="Classmethodorstaticmethod Coverage Results" MODIFIED="1675251766062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Classes and objects" />
     <SUITE FILE_PATH="coverage/Practise$alarm_clock.coverage" NAME="alarm_clock Coverage Results" MODIFIED="1676873367982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alarm clock" />
     <SUITE FILE_PATH="coverage/Practise$test.coverage" NAME="test Coverage Results" MODIFIED="1671794176080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VamsiBhavani Telugu" />
+    <SUITE FILE_PATH="coverage/Practise$web_scrapping.coverage" NAME="web_scrapping Coverage Results" MODIFIED="1677416125117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_scraping/Web_Scrapping_geeks" />
     <SUITE FILE_PATH="coverage/Practise$Cows_and_bulls.coverage" NAME="Cows_and_bulls Coverage Results" MODIFIED="1671789804266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VamsiBhavani Telugu" />
     <SUITE FILE_PATH="coverage/Practise$game.coverage" NAME="game Coverage Results" MODIFIED="1675874407243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MasterMindGame" />
-    <SUITE FILE_PATH="coverage/Practise$web_scraping3.coverage" NAME="web_scraping3 Coverage Results" MODIFIED="1677064601098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_scraping" />
+    <SUITE FILE_PATH="coverage/Practise$web_scraping3.coverage" NAME="web_scraping3 Coverage Results" MODIFIED="1677470405945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_scraping" />
     <SUITE FILE_PATH="coverage/Practise$Lesson8_PriorityQueue.coverage" NAME="Lesson8_PriorityQueue Coverage Results" MODIFIED="1675248124312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataStructuresAndAlgorithms" />
     <SUITE FILE_PATH="coverage/Practise$GuessTheNumber.coverage" NAME="GuessTheNumber Coverage Results" MODIFIED="1671789753039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12BeginnerPythonprojects" />
     <SUITE FILE_PATH="coverage/Practise$Dict_Methods.coverage" NAME="Dict_Methods Coverage Results" MODIFIED="1674445898560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Built_in_functions" />
-    <SUITE FILE_PATH="coverage/Practise$web_scraping4.coverage" NAME="web_scraping4 Coverage Results" MODIFIED="1677070682010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_scraping" />
+    <SUITE FILE_PATH="coverage/Practise$web_scraping4.coverage" NAME="web_scraping4 Coverage Results" MODIFIED="1677487116399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_scraping" />
     <SUITE FILE_PATH="coverage/Practise$Scope_of_objbect.coverage" NAME="Scope_of_objbect Coverage Results" MODIFIED="1675251445853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Basics" />
     <SUITE FILE_PATH="coverage/Practise$Set_Methods.coverage" NAME="Set_Methods Coverage Results" MODIFIED="1674527839271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Built_in_functions" />
     <SUITE FILE_PATH="coverage/Practise$List_Methods.coverage" NAME="List Methods Coverage Results" MODIFIED="1674298832402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Built_in_functions" />
@@ -39,52 +39,20 @@
     <SUITE FILE_PATH="coverage/Practise$web_scraping2.coverage" NAME="web_scraping2 Coverage Results" MODIFIED="1677049058786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_scraping" />
     <SUITE FILE_PATH="coverage/Practise$string_methods.coverage" NAME="string_methods Coverage Results" MODIFIED="1674055600227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Built_in_functions" />
     <SUITE FILE_PATH="coverage/Practise$Tuple_Methods.coverage" NAME="Tuple_Methods Coverage Results" MODIFIED="1674475394308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Built_in_functions" />
+    <SUITE FILE_PATH="coverage/Practise$os_module.coverage" NAME="os_module Coverage Results" MODIFIED="1677651215311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OS" />
     <SUITE FILE_PATH="coverage/Practise$A.coverage" NAME="A Coverage Results" MODIFIED="1673928713374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Built_in_functions" />
     <SUITE FILE_PATH="coverage/Practise$statement.coverage" NAME="statement Coverage Results" MODIFIED="1675251476817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Basics" />
     <SUITE FILE_PATH="coverage/Practise$Python_Interview_Questions_1.coverage" NAME="Python_Interview_Questions_1 Coverage Results" MODIFIED="1675507727425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview" />
     <SUITE FILE_PATH="coverage/Practise$classorstatic.coverage" NAME="classorstatic Coverage Results" MODIFIED="1675251906076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Classes and objects" />
-    <SUITE FILE_PATH="coverage/Practise$web_scraping.coverage" NAME="web_scraping Coverage Results" MODIFIED="1677045254225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_scraping" />
+    <SUITE FILE_PATH="coverage/Practise$web_scraping.coverage" NAME="web_scraping Coverage Results" MODIFIED="1677469878439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_scraping" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MasterMindGame/game.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1260">
-              <caret line="63" column="38" selection-start-line="63" selection-start-column="38" selection-end-line="63" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web_scraping/index2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3260">
-              <caret line="163" column="7" selection-start-line="163" selection-start-column="7" selection-end-line="163" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web_scraping/web_scraping4.py">
+        <entry file="file://$PROJECT_DIR$/OS/os_module.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="52" column="33" lean-forward="true" selection-start-line="52" selection-start-column="33" selection-end-line="52" selection-end-column="33" />
-              <folding>
-                <element signature="e#31#60#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web_scraping/web_scraping3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1080">
-              <caret line="54" selection-start-line="54" selection-end-line="54" />
-              <folding>
-                <element signature="e#0#29#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="415">
+              <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
             </state>
           </provider>
         </entry>
@@ -135,15 +103,17 @@
         <option value="$PROJECT_DIR$/Alarm clock/alarm_clock.py" />
         <option value="$PROJECT_DIR$/Password_generator/password_generator.py" />
         <option value="$PROJECT_DIR$/web_scraping/index.html" />
-        <option value="$PROJECT_DIR$/web_scraping/web_scraping.py" />
         <option value="$PROJECT_DIR$/web_scraping/index2.html" />
         <option value="$PROJECT_DIR$/web_scraping/web_scraping2.py" />
+        <option value="$PROJECT_DIR$/web_scraping/Web_Scrapping_geeks/web_scrapping.py" />
+        <option value="$PROJECT_DIR$/web_scraping/web_scraping.py" />
         <option value="$PROJECT_DIR$/web_scraping/web_scraping3.py" />
         <option value="$PROJECT_DIR$/web_scraping/web_scraping4.py" />
+        <option value="$PROJECT_DIR$/OS/os_module.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1039" />
@@ -154,6 +124,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practise" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -164,23 +145,7 @@
             <path>
               <item name="Practise" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Password_generator" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Practise" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="web_scraping" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practise" type="462c0819:PsiDirectoryNode" />
+              <item name="OS" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -212,8 +177,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.web_scraping4">
-    <configuration name="password_generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.os_module">
+    <configuration name="os_module" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -221,12 +186,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Password_generator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OS" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Password_generator/password_generator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OS/os_module.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -249,28 +214,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web_scraping/web_scraping.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="web_scraping2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Practise" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web_scraping" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web_scraping/web_scraping2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -323,13 +266,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="web_scrapping" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web_scraping/Web_Scrapping_geeks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web_scraping/Web_Scrapping_geeks/web_scrapping.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.os_module" />
         <item itemvalue="Python.web_scraping4" />
         <item itemvalue="Python.web_scraping3" />
-        <item itemvalue="Python.web_scraping2" />
         <item itemvalue="Python.web_scraping" />
-        <item itemvalue="Python.password_generator" />
+        <item itemvalue="Python.web_scrapping" />
       </list>
     </recent_temporary>
   </component>
@@ -359,6 +324,9 @@
       <workItem from="1676870065727" duration="6336000" />
       <workItem from="1677041693904" duration="8891000" />
       <workItem from="1677063532033" duration="5792000" />
+      <workItem from="1677167653376" duration="636000" />
+      <workItem from="1677401349368" duration="9538000" />
+      <workItem from="1677576718526" duration="5165000" />
     </task>
     <task id="LOCAL-00001" summary="Daily email digest archietcture">
       <created>1673241695142</created>
@@ -371,7 +339,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102487000" />
+    <option name="totallyTimeSpent" value="117826000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -383,14 +351,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1048" extended-state="7" />
+    <frame x="953" y="0" width="974" height="1039" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19083156" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3665208" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32896176" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3431694" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33112583" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -446,12 +415,6 @@
     <state width="267" height="288" key="Git.Branch.Popup@1920.1080" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/GeeksforGeeks/Classes and objects/Desctructor.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksforGeeks/Classes and objects/Encapsulation.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/GeeksforGeeks/Classes and objects/Inheritance.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -648,44 +611,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web_scraping/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MasterMindGame/game.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="63" column="38" selection-start-line="63" selection-start-column="38" selection-end-line="63" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web_scraping/index2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3260">
-          <caret line="163" column="7" selection-start-line="163" selection-start-column="7" selection-end-line="163" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web_scraping/web_scraping.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1240">
-          <caret line="62" column="18" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
-          <folding>
-            <element signature="e#1096#1125#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web_scraping/web_scraping2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1120">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Alarm clock/alarm_clock.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="620">
@@ -706,10 +631,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web_scraping/web_scraping3.py">
+    <entry file="file://$PROJECT_DIR$/web_scraping/web_scraping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_scraping/web_scraping2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1080">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
+          <caret line="54" column="22" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_scraping/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_scraping/Web_Scrapping_geeks/web_scrapping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+          <folding>
+            <element signature="e#64#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_scraping/web_scraping3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1040">
+          <caret line="52" column="19" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="19" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
@@ -718,11 +674,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web_scraping/web_scraping4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="52" column="33" lean-forward="true" selection-start-line="52" selection-start-column="33" selection-end-line="52" selection-end-column="33" />
-          <folding>
-            <element signature="e#31#60#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="540">
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_scraping/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="730">
+          <caret line="163" column="7" selection-start-line="163" selection-start-column="7" selection-end-line="163" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MasterMindGame/game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="824">
+          <caret line="63" column="38" selection-start-line="63" selection-start-column="38" selection-end-line="63" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OS/os_module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
         </state>
       </provider>
     </entry>

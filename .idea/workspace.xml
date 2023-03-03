@@ -2,26 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e695e0c-1065-4d81-b4cc-ab86b5683fe8" name="Default Changelist" comment="Daily email digest archietcture">
-      <change afterPath="$PROJECT_DIR$/Modules/Requests/Authentication.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modules/Requests/SSL_certification_ validation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modules/Requests/Session_Objects.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modules/Requests/requests_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modules/Shutil/Example2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modules/Shutil/Example3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modules/Shutil/Example4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modules/Shutil/shutil_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modules/Subprocess_module/hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modules/Subprocess_module/hello_World.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modules/Subprocess_module/hello_c++.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modules/Subprocess_module/subprocess_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modules/argparse/Argparse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modules/argparse/Example3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modules/argparse/Example_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modules/sys_module/sys_command_line_args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modules/sys_module/sys_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yet to Learn/Learn these" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modules/RE/re_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modules/RE/re_module_set2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OS/os_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/Modules/OS/os_module.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,6 +55,7 @@
     <SUITE FILE_PATH="coverage/Practise$A.coverage" NAME="A Coverage Results" MODIFIED="1673928713374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Built_in_functions" />
     <SUITE FILE_PATH="coverage/Practise$statement.coverage" NAME="statement Coverage Results" MODIFIED="1675251476817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Basics" />
     <SUITE FILE_PATH="coverage/Practise$Python_Interview_Questions_1.coverage" NAME="Python_Interview_Questions_1 Coverage Results" MODIFIED="1675507727425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview" />
+    <SUITE FILE_PATH="coverage/Practise$re_module.coverage" NAME="re_module Coverage Results" MODIFIED="1677825004261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/RE" />
     <SUITE FILE_PATH="coverage/Practise$classorstatic.coverage" NAME="classorstatic Coverage Results" MODIFIED="1675251906076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Classes and objects" />
     <SUITE FILE_PATH="coverage/Practise$web_scraping.coverage" NAME="web_scraping Coverage Results" MODIFIED="1677469878439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_scraping" />
   </component>
@@ -80,49 +64,24 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Yet to Learn/Learn these">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="15" column="10" selection-start-line="15" selection-end-line="15" selection-end-column="10" />
+            <state relative-caret-position="200">
+              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Modules/RE/re_module.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="412">
+              <caret line="438" column="30" selection-start-line="438" selection-start-column="29" selection-end-line="438" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Modules/Subprocess_module/subprocess_module.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="e#0#17#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Modules/Subprocess_module/hello_World.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Modules/Subprocess_module/hello_c++.cc">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Modules/Subprocess_module/hello.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/Modules/RE/re_module_set2.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -194,12 +153,14 @@
         <option value="$PROJECT_DIR$/Modules/sys_module/sys_module.py" />
         <option value="$PROJECT_DIR$/Modules/sys_module/sys_command_l;ne_args.py" />
         <option value="$PROJECT_DIR$/Modules/sys_module/sys_command_line_args.py" />
-        <option value="$PROJECT_DIR$/Yet to Learn/Learn these" />
         <option value="$PROJECT_DIR$/Modules/subprocess.py" />
         <option value="$PROJECT_DIR$/Modules/Subprocess_module/hello_World.c" />
         <option value="$PROJECT_DIR$/Modules/Subprocess_module/hello_c++.cc" />
         <option value="$PROJECT_DIR$/Modules/Subprocess_module/hello.java" />
         <option value="$PROJECT_DIR$/Modules/Subprocess_module/subprocess_module.py" />
+        <option value="$PROJECT_DIR$/Yet to Learn/Learn these" />
+        <option value="$PROJECT_DIR$/Modules/RE/re_module.py" />
+        <option value="$PROJECT_DIR$/Modules/RE/re_module_set2.py" />
       </list>
     </option>
   </component>
@@ -241,7 +202,7 @@
               <item name="Practise" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="Modules" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Subprocess_module" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="RE" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="Practise" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
@@ -282,7 +243,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.subprocess_module">
+  <component name="RunManager" selected="Python.re_module">
     <configuration name="Argparse" type="PythonConfigurationType" factoryName="Python">
       <module name="Practise" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -349,28 +310,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SSL_certification_ validation" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Practise" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Modules/Requests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modules/Requests/SSL_certification_ validation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Session_Objects" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practise" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -385,6 +324,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modules/Requests/Session_Objects.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="re_module" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Modules/RE" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modules/RE/re_module.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -463,19 +424,19 @@
       <item itemvalue="Python.Argparse" />
       <item itemvalue="Python.Example_2" />
       <item itemvalue="Python.Example3" />
-      <item itemvalue="Python.SSL_certification_ validation" />
       <item itemvalue="Python.Session_Objects" />
       <item itemvalue="Python.sys_module" />
       <item itemvalue="Python.sys_command_l;ne_args" />
       <item itemvalue="Python.subprocess_module" />
+      <item itemvalue="Python.re_module" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.re_module" />
         <item itemvalue="Python.subprocess_module" />
         <item itemvalue="Python.sys_command_l;ne_args" />
         <item itemvalue="Python.sys_module" />
         <item itemvalue="Python.Session_Objects" />
-        <item itemvalue="Python.SSL_certification_ validation" />
       </list>
     </recent_temporary>
   </component>
@@ -507,7 +468,7 @@
       <workItem from="1677063532033" duration="5792000" />
       <workItem from="1677167653376" duration="636000" />
       <workItem from="1677401349368" duration="9538000" />
-      <workItem from="1677576718526" duration="19074000" />
+      <workItem from="1677576718526" duration="30708000" />
     </task>
     <task id="LOCAL-00001" summary="Daily email digest archietcture">
       <created>1673241695142</created>
@@ -520,7 +481,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131735000" />
+    <option name="totallyTimeSpent" value="143369000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -533,13 +494,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1039" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.28993437" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28993437" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32896176" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5298013" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4227373" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -548,7 +510,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49946696" weight="0.32786885" />
       <window_info anchor="bottom" id="Database Changes" order="9" weight="0.32896176" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.32896176" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49946696" weight="0.3222958" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49946696" weight="0.3245033" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3289183" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -571,12 +533,6 @@
     <state width="267" height="288" key="Git.Branch.Popup@1920.1080" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/GeeksforGeeks/ControlFlow/if else.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksforGeeks/ControlFlow/Looping techniques.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/GeeksforGeeks/ControlFlow/Queue.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-180" />
@@ -880,13 +836,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Yet to Learn/Learn these">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="15" column="10" selection-start-line="15" selection-end-line="15" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Modules/Subprocess_module/hello_World.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -908,6 +857,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Yet to Learn/Learn these">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Modules/Subprocess_module/subprocess_module.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -917,6 +873,16 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modules/RE/re_module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="438" column="30" selection-start-line="438" selection-start-column="29" selection-end-line="438" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modules/RE/re_module_set2.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

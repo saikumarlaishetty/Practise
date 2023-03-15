@@ -13,6 +13,16 @@ RE
 SOCKET
 TIME
 Difference b/w SUBPROCESS and OS
+
+
+1) telnet   -   import telnetlib  ( works mostly on LINUX/UNIX/MAC )
+
+2) ssh      -   import paramiko   ( works mostly on LINUX/UNIX/MAC )
+                                  (popular library)
+                or
+ 3) ftp      -   import ftplib
+
+ 4) smtp     -   import smtp
 ===================================================
 PENDING :
 ===================================================
@@ -28,16 +38,12 @@ PENDING :
 Network Protocol Automation :-
 ===============================
 
-1) telnet   -   import telnetlib  ( works mostly on LINUX/UNIX/MAC )
 
-2) ssh      -   import paramiko   ( works mostly on LINUX/UNIX/MAC )
-                                  (popular library)
-                or
                 import netmiko
 
-3) ftp      -   import ftplib
 
-4) smtp     -   import smtp
+
+
 
 
 import glob

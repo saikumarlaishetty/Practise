@@ -9,7 +9,7 @@ r = requests.get(URL)
 
 soup = BeautifulSoup(r.content, 'html.parser')
 
-soup.
+#soup.
 
 quotes=[] # a list to store quotes
 

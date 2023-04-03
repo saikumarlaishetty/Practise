@@ -16,6 +16,45 @@ None                  null
 
 
 """
+# Pickle works with binary data and json works with strings
+
+"""
+You want to save a Python dictionary into a file and load it later in a Java application. What protocol should you use?
+
+Json
+AS PICKLE is python proprietary
+"""
+
+
+"""
+You want to preserve each Python data type during serialization and deserialization. What should you use?
+
+PICKLE
+
+"""
+
+"""
+Your application loads (deserializes) data from untrusted sources. What should you use?
+
+JSON
+"""
+
+"""
+Which function from JSON module is used to load an encoded JSON string into a Python object?   
+loads()
+
+"""
+
+
+"""
+You want to save a Python set into a file on disk. What protocol should you use?
+PICKLE
+"""
+
+"""
+What function from JSON module is used to save Python objects to a file on disk?
+dump()
+"""
 
 
 

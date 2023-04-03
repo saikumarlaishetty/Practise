@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e695e0c-1065-4d81-b4cc-ab86b5683fe8" name="Default Changelist" comment="Daily email digest archietcture">
-      <change afterPath="$PROJECT_DIR$/Modules/Newtwork automation/paramiko_modules/paramiko_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modules/Newtwork automation/paramiko_modules/paramiko_part1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modules/Newtwork automation/telenet_modules/telnet_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modules/Json/json_A1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modules/Json/json_A2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modules/Newtwork automation/Netmiko/netmiko.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yet to Learn/Learn these" beforeDir="false" afterPath="$PROJECT_DIR$/Yet to Learn/Learn these" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modules/Json/Json_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/Modules/Json/Json_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modules/Json/json_assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Modules/Json/json_assignment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modules/Newtwork automation/telenet_modules/telnet_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/Modules/Newtwork automation/telenet_modules/telnet_module.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +30,7 @@
     <SUITE FILE_PATH="coverage/Practise$Server_client.coverage" NAME="Server_client Coverage Results" MODIFIED="1677827657823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Socket" />
     <SUITE FILE_PATH="coverage/Practise$shutil_module.coverage" NAME="shutil_module Coverage Results" MODIFIED="1677669153858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Shutil" />
     <SUITE FILE_PATH="coverage/Practise$Dict_Methods.coverage" NAME="Dict_Methods Coverage Results" MODIFIED="1674445898560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Built_in_functions" />
-    <SUITE FILE_PATH="coverage/Practise$telnet_module.coverage" NAME="telnet_module Coverage Results" MODIFIED="1678689908016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Newtwork automation/telenet_modules" />
+    <SUITE FILE_PATH="coverage/Practise$telnet_module.coverage" NAME="telnet_module Coverage Results" MODIFIED="1678959438512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Newtwork automation/telenet_modules" />
     <SUITE FILE_PATH="coverage/Practise$sys_module.coverage" NAME="sys_module Coverage Results" MODIFIED="1677685415374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/sys_module" />
     <SUITE FILE_PATH="coverage/Practise$Scope_of_objbect.coverage" NAME="Scope_of_objbect Coverage Results" MODIFIED="1675251445853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Basics" />
     <SUITE FILE_PATH="coverage/Practise$Example3__1_.coverage" NAME="Example3 (1) Coverage Results" MODIFIED="1677677957861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Shutil" />
@@ -51,11 +53,14 @@
     <SUITE FILE_PATH="coverage/Practise$requests_module.coverage" NAME="requests_module Coverage Results" MODIFIED="1677683156299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Requests" />
     <SUITE FILE_PATH="coverage/Practise$Json1.coverage" NAME="Json1 Coverage Results" MODIFIED="1678860178299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Json" />
     <SUITE FILE_PATH="coverage/Practise$game.coverage" NAME="game Coverage Results" MODIFIED="1675874407243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MasterMindGame" />
+    <SUITE FILE_PATH="coverage/Practise$json_assignment.coverage" NAME="json_assignment Coverage Results" MODIFIED="1678884271970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Json" />
     <SUITE FILE_PATH="coverage/Practise$Lesson8_PriorityQueue.coverage" NAME="Lesson8_PriorityQueue Coverage Results" MODIFIED="1675248124312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataStructuresAndAlgorithms" />
     <SUITE FILE_PATH="coverage/Practise$subprocess_module.coverage" NAME="subprocess_module Coverage Results" MODIFIED="1677686570712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Subprocess_module" />
     <SUITE FILE_PATH="coverage/Practise$GuessTheNumber.coverage" NAME="GuessTheNumber Coverage Results" MODIFIED="1671789753039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12BeginnerPythonprojects" />
     <SUITE FILE_PATH="coverage/Practise$web_scraping4.coverage" NAME="web_scraping4 Coverage Results" MODIFIED="1677487116399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_scraping" />
+    <SUITE FILE_PATH="coverage/Practise$json_A2.coverage" NAME="json_A2 Coverage Results" MODIFIED="1678959394215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Json" />
     <SUITE FILE_PATH="coverage/Practise$Set_Methods.coverage" NAME="Set_Methods Coverage Results" MODIFIED="1674527839271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Built_in_functions" />
+    <SUITE FILE_PATH="coverage/Practise$json_A1.coverage" NAME="json_A1 Coverage Results" MODIFIED="1678894579310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Json" />
     <SUITE FILE_PATH="coverage/Practise$sys_command_l_ne_args.coverage" NAME="sys_command_l;ne_args Coverage Results" MODIFIED="1677686001788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/sys_module" />
     <SUITE FILE_PATH="coverage/Practise$logical_Operator.coverage" NAME="logical_Operator Coverage Results" MODIFIED="1675251302817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Basics" />
     <SUITE FILE_PATH="coverage/Practise$Exception_handling.coverage" NAME="Exception_handling Coverage Results" MODIFIED="1675250937277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Basics" />
@@ -70,11 +75,53 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Modules/Json/json_assignment.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Modules/Json/Json_module.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+            <state relative-caret-position="1140">
+              <caret line="57" selection-start-line="57" selection-end-line="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Modules/Newtwork automation/Netmiko/netmiko.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Modules/Json/json_A2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1780">
+              <caret line="91" column="65" selection-start-line="91" selection-start-column="65" selection-end-line="91" selection-end-column="65" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Modules/Newtwork automation/telenet_modules/telnet_module.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
             </state>
           </provider>
         </entry>
@@ -94,9 +141,12 @@
     <findStrings>
       <find>all</find>
       <find>get</find>
+      <find>protocal</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;all -&quot;(all</replace>
+      <replace>protocal</replace>
+      <replace>type</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -106,10 +156,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson15_TreeCharecteristics.py" />
-        <option value="$PROJECT_DIR$/GeeksforGeeks/Classes and objects/TypesofInheritance.py" />
-        <option value="$PROJECT_DIR$/Interview/Python_Interview_Questions_1" />
-        <option value="$PROJECT_DIR$/MasterMindGame/game.py" />
         <option value="$PROJECT_DIR$/Alarm clock/alarm_clock.py" />
         <option value="$PROJECT_DIR$/Password_generator/password_generator.py" />
         <option value="$PROJECT_DIR$/web_scraping/index.html" />
@@ -146,7 +192,6 @@
         <option value="$PROJECT_DIR$/Modules/Socket/Socket_understanding.py" />
         <option value="$PROJECT_DIR$/Modules/Time/time.py" />
         <option value="$PROJECT_DIR$/Modules/Time/time_module.py" />
-        <option value="$PROJECT_DIR$/Modules/Newtwork automation/telenet_modules/telnet_module.py" />
         <option value="$PROJECT_DIR$/Modules/Newtwork automation/paramiko_modules/paramiko_module.py" />
         <option value="$PROJECT_DIR$/Modules/Newtwork automation/paramiko_modules/paramiko_part1.py" />
         <option value="$PROJECT_DIR$/Modules/Ftp_module/fptlib_module.py" />
@@ -155,8 +200,13 @@
         <option value="$PROJECT_DIR$/web_scraping/Web_Scrapping_geeks/web_scrapping.py" />
         <option value="$PROJECT_DIR$/API/API_learning.py" />
         <option value="$PROJECT_DIR$/Modules/Json/pickle_module.py" />
-        <option value="$PROJECT_DIR$/Modules/Json/Json_module.py" />
         <option value="$PROJECT_DIR$/Modules/Json/Json1.py" />
+        <option value="$PROJECT_DIR$/Modules/Json/json_assignment.py" />
+        <option value="$PROJECT_DIR$/Modules/Json/json_A1.py" />
+        <option value="$PROJECT_DIR$/Modules/Json/json_A2.py" />
+        <option value="$PROJECT_DIR$/Modules/Json/Json_module.py" />
+        <option value="$PROJECT_DIR$/Modules/Netmiko/netmiko.py" />
+        <option value="$PROJECT_DIR$/Modules/Newtwork automation/telenet_modules/telnet_module.py" />
       </list>
     </option>
   </component>
@@ -193,7 +243,14 @@
               <item name="Practise" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="Modules" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Json" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Newtwork automation" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Practise" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Modules" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Newtwork automation" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="telenet_modules" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="Practise" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
@@ -224,13 +281,14 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\slaishet\PycharmProjects\Practise\Modules\Subprocess_module" />
-      <recent name="C:\Users\slaishet\PycharmProjects\Practise\Modules" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\slaishet\PycharmProjects\Practise\Alarm clock" />
       <recent name="C:\Users\slaishet\PycharmProjects\Practise\Program archiecture" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\slaishet\PycharmProjects\Practise\Modules\Newtwork automation" />
+      <recent name="C:\Users\slaishet\PycharmProjects\Practise\Modules\Subprocess_module" />
+      <recent name="C:\Users\slaishet\PycharmProjects\Practise\Modules" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -245,7 +303,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Json1">
+  <component name="RunManager" selected="Python.telnet_module">
     <configuration name="Argparse" type="PythonConfigurationType" factoryName="Python">
       <module name="Practise" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -334,7 +392,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="paramiko_module" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="json_A1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -342,12 +400,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Modules/Newtwork automation/paramiko_modules" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Modules/Json" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modules/Newtwork automation/paramiko_modules/paramiko_module.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modules/Json/json_A1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -356,7 +414,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="paramiko_part1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="json_A2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -364,12 +422,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Modules/Newtwork automation/paramiko_modules" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Modules/Json" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modules/Newtwork automation/paramiko_modules/paramiko_part1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modules/Json/json_A2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="json_assignment" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Modules/Json" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modules/Json/json_assignment.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -400,45 +480,23 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="time_module" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Practise" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Modules/Time" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modules/Time/time_module.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.Argparse" />
       <item itemvalue="Python.Example_2" />
       <item itemvalue="Python.Example3" />
-      <item itemvalue="Python.time_module" />
-      <item itemvalue="Python.telnet_module" />
-      <item itemvalue="Python.paramiko_module" />
-      <item itemvalue="Python.paramiko_part1" />
       <item itemvalue="Python.Json1" />
+      <item itemvalue="Python.json_assignment" />
+      <item itemvalue="Python.json_A1" />
+      <item itemvalue="Python.json_A2" />
+      <item itemvalue="Python.telnet_module" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Json1" />
-        <item itemvalue="Python.paramiko_part1" />
-        <item itemvalue="Python.paramiko_module" />
         <item itemvalue="Python.telnet_module" />
-        <item itemvalue="Python.time_module" />
+        <item itemvalue="Python.json_A2" />
+        <item itemvalue="Python.json_A1" />
+        <item itemvalue="Python.json_assignment" />
+        <item itemvalue="Python.Json1" />
       </list>
     </recent_temporary>
   </component>
@@ -473,7 +531,8 @@
       <workItem from="1677576718526" duration="34111000" />
       <workItem from="1678080955272" duration="5648000" />
       <workItem from="1678378036463" duration="19387000" />
-      <workItem from="1678771078277" duration="12730000" />
+      <workItem from="1678771078277" duration="21872000" />
+      <workItem from="1679032461189" duration="7000" />
     </task>
     <task id="LOCAL-00001" summary="Daily email digest archietcture">
       <created>1673241695142</created>
@@ -486,7 +545,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="184537000" />
+    <option name="totallyTimeSpent" value="193686000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -501,12 +560,12 @@
     <frame x="-6" y="-6" width="1453" height="865" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0874552" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.39673105" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32789117" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20952381" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40408164" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49964157" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -538,49 +597,6 @@
     <state width="267" height="288" key="Git.Branch.Popup@1920.1080" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PythonSelenium/dynamicDropDowns.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Interview/Python_Interview_Questions_1">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1969">
-          <caret line="294" column="37" selection-start-line="294" selection-start-column="37" selection-end-line="294" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Alarm clock/alarm_clock.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Password_generator/password_generator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="38" column="49" selection-start-line="38" selection-start-column="49" selection-end-line="38" selection-end-column="49" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web_scraping/web_scraping.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web_scraping/web_scraping2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1080">
@@ -704,23 +720,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/Requests/requests_module.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="81" selection-start-line="81" selection-end-line="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/Requests/Authentication.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-          <folding>
-            <element signature="e#40#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Modules/Requests/SSL_certification_ validation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
@@ -839,13 +838,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/Newtwork automation/telenet_modules/telnet_module.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Modules/Newtwork automation/paramiko_modules/paramiko_part1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="151">
@@ -896,27 +888,88 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Modules/Json/try.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modules/Requests/requests_module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modules/Requests/Authentication.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="85" lean-forward="true" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="85" />
+          <folding>
+            <element signature="e#40#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modules/Json/a1.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modules/Json/json_A1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Modules/Json/Json1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
+        <state relative-caret-position="780">
           <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/Json/try.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Modules/Json/pickle_module.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        <state relative-caret-position="163">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modules/Json/json_assignment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Modules/Json/Json_module.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+        <state relative-caret-position="1140">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modules/Newtwork automation/Netmiko/netmiko.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modules/Json/json_A2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1780">
+          <caret line="91" column="65" selection-start-line="91" selection-start-column="65" selection-end-line="91" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modules/Newtwork automation/telenet_modules/telnet_module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>

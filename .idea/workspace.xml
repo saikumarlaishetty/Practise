@@ -2,13 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e695e0c-1065-4d81-b4cc-ab86b5683fe8" name="Default Changelist" comment="Daily email digest archietcture">
-      <change afterPath="$PROJECT_DIR$/Modules/Json/json_A1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modules/Json/json_A2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modules/Newtwork automation/Netmiko/netmiko.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/Array interview problems/1_peak_element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Developer/Django/myproject/myapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Developer/Django/myproject/static/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Developer/Django/myproject/templates/counter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Developer/Django/myproject/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Developer/FullStackWebDevelopment/Readme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonSelenium/PythonSelenium2023/Day1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonSelenium/chromedriver_win32/LICENSE.chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonSelenium/chromedriver_win32/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/PageObjects/Locators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/PageObjects/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/Resources/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/Resources/loginKeywords.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/Resources/login_resources.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/Resources/resources.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC1.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC10.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC11.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC12.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC13.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC14.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC15.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC16.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC17.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC18.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC19.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC2.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC20.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC21.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC22.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC23.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC3.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC4.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC5.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC6.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC7.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC8.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC9.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestData/LoginData.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestData/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestData/mydb_person_insertData.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modules/Json/Json_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/Modules/Json/Json_module.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modules/Json/json_assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Modules/Json/json_assignment.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modules/Newtwork automation/telenet_modules/telnet_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/Modules/Newtwork automation/telenet_modules/telnet_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeeksforGeeks/Classes and objects/Classmethodorstaticmethod.py" beforeDir="false" afterPath="$PROJECT_DIR$/GeeksforGeeks/Classes and objects/Classmethodorstaticmethod.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeeksforGeeks/Function/args and kwargs.py" beforeDir="false" afterPath="$PROJECT_DIR$/GeeksforGeeks/Function/args and kwargs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeeksforGeeks/Function/example.log" beforeDir="false" afterPath="$PROJECT_DIR$/GeeksforGeeks/Function/example.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeeksforGeeks/Function/lambda.py" beforeDir="false" afterPath="$PROJECT_DIR$/GeeksforGeeks/Function/lambda.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeeksforGeeks/PythonAdvance/Metaprogramming.py" beforeDir="false" afterPath="$PROJECT_DIR$/GeeksforGeeks/PythonAdvance/Metaprogramming.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonSelenium/ActionsDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonSelenium/ActionsDemo.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,110 +59,152 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Practise$password_generator.coverage" NAME="password_generator Coverage Results" MODIFIED="1676951819754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Password_generator" />
-    <SUITE FILE_PATH="coverage/Practise$Classes.coverage" NAME="Classes Coverage Results" MODIFIED="1675251632874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Classes and objects" />
-    <SUITE FILE_PATH="coverage/Practise$Classmethodorstaticmethod.coverage" NAME="Classmethodorstaticmethod Coverage Results" MODIFIED="1675251766062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Classes and objects" />
+    <SUITE FILE_PATH="coverage/Practise$Classes.coverage" NAME="Classes Coverage Results" MODIFIED="1686460694547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Classes and objects" />
+    <SUITE FILE_PATH="coverage/Practise$Classmethodorstaticmethod.coverage" NAME="Classmethodorstaticmethod Coverage Results" MODIFIED="1695030342371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Classes and objects" />
     <SUITE FILE_PATH="coverage/Practise$test.coverage" NAME="test Coverage Results" MODIFIED="1671794176080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VamsiBhavani Telugu" />
     <SUITE FILE_PATH="coverage/Practise$web_scrapping.coverage" NAME="web_scrapping Coverage Results" MODIFIED="1677416125117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_scraping/Web_Scrapping_geeks" />
     <SUITE FILE_PATH="coverage/Practise$paramiko_module.coverage" NAME="paramiko_module Coverage Results" MODIFIED="1678695044547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Newtwork automation/paramiko_modules" />
-    <SUITE FILE_PATH="coverage/Practise$Argparse.coverage" NAME="Argparse Coverage Results" MODIFIED="1677653426840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/argparse" />
-    <SUITE FILE_PATH="coverage/Practise$paramiko_part1.coverage" NAME="paramiko_part1 Coverage Results" MODIFIED="1678776395725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Newtwork automation/paramiko_modules" />
-    <SUITE FILE_PATH="coverage/Practise$Cows_and_bulls.coverage" NAME="Cows_and_bulls Coverage Results" MODIFIED="1671789804266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VamsiBhavani Telugu" />
+    <SUITE FILE_PATH="coverage/Practise$Heapq.coverage" NAME="Heapq Coverage Results" MODIFIED="1686540338025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Collections" />
+    <SUITE FILE_PATH="coverage/Practise$Argparse.coverage" NAME="Argparse Coverage Results" MODIFIED="1686561549698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/argparse" />
+    <SUITE FILE_PATH="coverage/Practise$List.coverage" NAME="List Coverage Results" MODIFIED="1686459932031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Basics" />
     <SUITE FILE_PATH="coverage/Practise$web_scraping3.coverage" NAME="web_scraping3 Coverage Results" MODIFIED="1677470405945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_scraping" />
+    <SUITE FILE_PATH="coverage/Practise$PrivateVariable.coverage" NAME="PrivateVariable Coverage Results" MODIFIED="1695030922222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Classes and objects" />
+    <SUITE FILE_PATH="coverage/Practise$Operator_Overloading.coverage" NAME="Operator_Overloading Coverage Results" MODIFIED="1686559643861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Operators" />
     <SUITE FILE_PATH="coverage/Practise$Server_client.coverage" NAME="Server_client Coverage Results" MODIFIED="1677827657823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Socket" />
     <SUITE FILE_PATH="coverage/Practise$shutil_module.coverage" NAME="shutil_module Coverage Results" MODIFIED="1677669153858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Shutil" />
-    <SUITE FILE_PATH="coverage/Practise$Dict_Methods.coverage" NAME="Dict_Methods Coverage Results" MODIFIED="1674445898560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Built_in_functions" />
-    <SUITE FILE_PATH="coverage/Practise$telnet_module.coverage" NAME="telnet_module Coverage Results" MODIFIED="1678959438512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Newtwork automation/telenet_modules" />
     <SUITE FILE_PATH="coverage/Practise$sys_module.coverage" NAME="sys_module Coverage Results" MODIFIED="1677685415374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/sys_module" />
-    <SUITE FILE_PATH="coverage/Practise$Scope_of_objbect.coverage" NAME="Scope_of_objbect Coverage Results" MODIFIED="1675251445853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Basics" />
+    <SUITE FILE_PATH="coverage/Practise$Deque.coverage" NAME="Deque Coverage Results" MODIFIED="1686537888110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Collections" />
+    <SUITE FILE_PATH="coverage/Practise$OrderDict.coverage" NAME="OrderDict Coverage Results" MODIFIED="1686541367878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Collections" />
+    <SUITE FILE_PATH="coverage/Practise$Files.coverage" NAME="Files Coverage Results" MODIFIED="1686559895774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/PythonAdvance" />
+    <SUITE FILE_PATH="coverage/Practise$Array.coverage" NAME="Array Coverage Results" MODIFIED="1680494389974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataStructuresAndAlgorithms" />
+    <SUITE FILE_PATH="coverage/Practise$Example_2.coverage" NAME="Example_2 Coverage Results" MODIFIED="1677654013797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/argparse" />
+    <SUITE FILE_PATH="coverage/Practise$OS_module.coverage" NAME="OS module Coverage Results" MODIFIED="1686561019191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/PythonAdvance" />
+    <SUITE FILE_PATH="coverage/Practise$time_module.coverage" NAME="time_module Coverage Results" MODIFIED="1678418628213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Time" />
+    <SUITE FILE_PATH="coverage/Practise$web_scraping2.coverage" NAME="web_scraping2 Coverage Results" MODIFIED="1677049058786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_scraping" />
+    <SUITE FILE_PATH="coverage/Practise$SSL_certification__validation.coverage" NAME="SSL_certification_ validation Coverage Results" MODIFIED="1677683411981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Requests" />
+    <SUITE FILE_PATH="coverage/Practise$Strings.coverage" NAME="Strings Coverage Results" MODIFIED="1686550695178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Data structures" />
+    <SUITE FILE_PATH="coverage/Practise$Session_Objects.coverage" NAME="Session_Objects Coverage Results" MODIFIED="1677683611599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Requests" />
+    <SUITE FILE_PATH="coverage/Practise$args_and_kwargs.coverage" NAME="args and kwargs Coverage Results" MODIFIED="1686553617911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Function" />
+    <SUITE FILE_PATH="coverage/Practise$Lesson5_stack_with_module.coverage" NAME="Lesson5_stack_with_module Coverage Results" MODIFIED="1696001860008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataStructuresAndAlgorithms" />
+    <SUITE FILE_PATH="coverage/Practise$json_assignment.coverage" NAME="json_assignment Coverage Results" MODIFIED="1678884271970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Json" />
+    <SUITE FILE_PATH="coverage/Practise$ActionsDemo.coverage" NAME="ActionsDemo Coverage Results" MODIFIED="1688706003554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonSelenium" />
+    <SUITE FILE_PATH="coverage/Practise$NamedTuple.coverage" NAME="NamedTuple Coverage Results" MODIFIED="1686541053378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Collections" />
+    <SUITE FILE_PATH="coverage/Practise$Functions.coverage" NAME="Functions Coverage Results" MODIFIED="1686558260171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Function" />
+    <SUITE FILE_PATH="coverage/Practise$Delete.coverage" NAME="Delete Coverage Results" MODIFIED="1695884630863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Yet to Learn" />
+    <SUITE FILE_PATH="coverage/Practise$Lesson8_PriorityQueue.coverage" NAME="Lesson8_PriorityQueue Coverage Results" MODIFIED="1680588080759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataStructuresAndAlgorithms" />
+    <SUITE FILE_PATH="coverage/Practise$Decorators.coverage" NAME="Decorators Coverage Results" MODIFIED="1686554683155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Function" />
+    <SUITE FILE_PATH="coverage/Practise$Tuples.coverage" NAME="Tuples Coverage Results" MODIFIED="1686550743440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Data structures" />
+    <SUITE FILE_PATH="coverage/Practise$Polymorphisim.coverage" NAME="Polymorphisim Coverage Results" MODIFIED="1686476625418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Classes and objects" />
+    <SUITE FILE_PATH="coverage/Practise$GuessTheNumber.coverage" NAME="GuessTheNumber Coverage Results" MODIFIED="1671789753039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12BeginnerPythonprojects" />
+    <SUITE FILE_PATH="coverage/Practise$web_scraping4.coverage" NAME="web_scraping4 Coverage Results" MODIFIED="1677487116399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_scraping" />
+    <SUITE FILE_PATH="coverage/Practise$Private.coverage" NAME="Private Coverage Results" MODIFIED="1695030864704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Classes and objects" />
+    <SUITE FILE_PATH="coverage/Practise$CommonlyUsed.coverage" NAME="CommonlyUsed Coverage Results" MODIFIED="1686559793960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/PythonAdvance" />
+    <SUITE FILE_PATH="coverage/Practise$decorator_practise.coverage" NAME="decorator practise Coverage Results" MODIFIED="1686552965060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Decorators" />
+    <SUITE FILE_PATH="coverage/Practise$Dict.coverage" NAME="Dict Coverage Results" MODIFIED="1686549372319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Data structures" />
+    <SUITE FILE_PATH="coverage/Practise$json_A1.coverage" NAME="json_A1 Coverage Results" MODIFIED="1678894579310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Json" />
+    <SUITE FILE_PATH="coverage/Practise$logical_Operator.coverage" NAME="logical_Operator Coverage Results" MODIFIED="1686460160304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Basics" />
+    <SUITE FILE_PATH="coverage/Practise$Delete__1_.coverage" NAME="Delete (1) Coverage Results" MODIFIED="1696306729429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataStructuresAndAlgorithms" />
+    <SUITE FILE_PATH="coverage/Practise$Example1.coverage" NAME="Example1 Coverage Results" MODIFIED="1677683351039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Requests" />
+    <SUITE FILE_PATH="coverage/Practise$Exception_handling.coverage" NAME="Exception_handling Coverage Results" MODIFIED="1686459629327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Basics" />
+    <SUITE FILE_PATH="coverage/Practise$Metaprogramming.coverage" NAME="Metaprogramming Coverage Results" MODIFIED="1686560878469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/PythonAdvance" />
+    <SUITE FILE_PATH="coverage/Practise$string_methods.coverage" NAME="string_methods Coverage Results" MODIFIED="1674055600227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Built_in_functions" />
+    <SUITE FILE_PATH="coverage/Practise$statement.coverage" NAME="statement Coverage Results" MODIFIED="1675251476817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Basics" />
+    <SUITE FILE_PATH="coverage/Practise$Python_Interview_Questions_1.coverage" NAME="Python_Interview_Questions_1 Coverage Results" MODIFIED="1675507727425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview" />
+    <SUITE FILE_PATH="coverage/Practise$Closures_Usage.coverage" NAME="Closures Usage Coverage Results" MODIFIED="1686553779001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Function" />
+    <SUITE FILE_PATH="coverage/Practise$re_module.coverage" NAME="re_module Coverage Results" MODIFIED="1677825004261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/RE" />
+    <SUITE FILE_PATH="coverage/Practise$classorstatic.coverage" NAME="classorstatic Coverage Results" MODIFIED="1695030580232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Classes and objects" />
+    <SUITE FILE_PATH="coverage/Practise$print.coverage" NAME="print Coverage Results" MODIFIED="1686559317876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Input_Output" />
+    <SUITE FILE_PATH="coverage/Practise$Lesson7_Queue_module.coverage" NAME="Lesson7_Queue_module Coverage Results" MODIFIED="1680585904611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataStructuresAndAlgorithms" />
+    <SUITE FILE_PATH="coverage/Practise$CollectionsModule.coverage" NAME="CollectionsModule Coverage Results" MODIFIED="1686559739589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/PythonAdvance" />
+    <SUITE FILE_PATH="coverage/Practise$ChainMap.coverage" NAME="ChainMap Coverage Results" MODIFIED="1686478842082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Collections" />
+    <SUITE FILE_PATH="coverage/Practise$paramiko_part1.coverage" NAME="paramiko_part1 Coverage Results" MODIFIED="1678776395725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Newtwork automation/paramiko_modules" />
+    <SUITE FILE_PATH="coverage/Practise$Cows_and_bulls.coverage" NAME="Cows_and_bulls Coverage Results" MODIFIED="1671789804266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VamsiBhavani Telugu" />
+    <SUITE FILE_PATH="coverage/Practise$Arrays.coverage" NAME="Arrays Coverage Results" MODIFIED="1686549235650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Data structures" />
+    <SUITE FILE_PATH="coverage/Practise$EException.coverage" NAME="EException Coverage Results" MODIFIED="1686553160599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Exception handling" />
+    <SUITE FILE_PATH="coverage/Practise$Dict_Methods.coverage" NAME="Dict_Methods Coverage Results" MODIFIED="1674445898560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Built_in_functions" />
+    <SUITE FILE_PATH="coverage/Practise$telnet_module.coverage" NAME="telnet_module Coverage Results" MODIFIED="1686563087547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Newtwork automation/telenet_modules" />
+    <SUITE FILE_PATH="coverage/Practise$Operator.coverage" NAME="Operator Coverage Results" MODIFIED="1686559594575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Operators" />
+    <SUITE FILE_PATH="coverage/Practise$Scope_of_objbect.coverage" NAME="Scope_of_objbect Coverage Results" MODIFIED="1680695576371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Basics" />
     <SUITE FILE_PATH="coverage/Practise$Example3__1_.coverage" NAME="Example3 (1) Coverage Results" MODIFIED="1677677957861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Shutil" />
     <SUITE FILE_PATH="coverage/Practise$Example4.coverage" NAME="Example4 Coverage Results" MODIFIED="1677678467622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Shutil" />
-    <SUITE FILE_PATH="coverage/Practise$Example_2.coverage" NAME="Example_2 Coverage Results" MODIFIED="1677654013797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/argparse" />
     <SUITE FILE_PATH="coverage/Practise$socket_module.coverage" NAME="socket_module Coverage Results" MODIFIED="1677827350314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Socket" />
     <SUITE FILE_PATH="coverage/Practise$List_Methods.coverage" NAME="List Methods Coverage Results" MODIFIED="1674298832402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Built_in_functions" />
     <SUITE FILE_PATH="coverage/Practise$requests.coverage" NAME="requests Coverage Results" MODIFIED="1677680182823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Requests" />
+    <SUITE FILE_PATH="coverage/Practise$Looping_techniques.coverage" NAME="Looping techniques Coverage Results" MODIFIED="1686548942938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/ControlFlow" />
+    <SUITE FILE_PATH="coverage/Practise$Encapsulation.coverage" NAME="Encapsulation Coverage Results" MODIFIED="1695030645888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Classes and objects" />
     <SUITE FILE_PATH="coverage/Practise$tips.coverage" NAME="tips Coverage Results" MODIFIED="1675222374583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12BeginnerPythonprojects" />
+    <SUITE FILE_PATH="coverage/Practise$1_peak_element.coverage" NAME="1_peak_element Coverage Results" MODIFIED="1696569622259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataStructuresAndAlgorithms/Array interview problems" />
+    <SUITE FILE_PATH="coverage/Practise$Map.coverage" NAME="Map Coverage Results" MODIFIED="1686560124162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/PythonAdvance" />
+    <SUITE FILE_PATH="coverage/Practise$lambda.coverage" NAME="lambda Coverage Results" MODIFIED="1699522519187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Function" />
     <SUITE FILE_PATH="coverage/Practise$Example3.coverage" NAME="Example3 Coverage Results" MODIFIED="1677668060777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/argparse" />
-    <SUITE FILE_PATH="coverage/Practise$time_module.coverage" NAME="time_module Coverage Results" MODIFIED="1678418628213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Time" />
     <SUITE FILE_PATH="coverage/Practise$Return_Yield.coverage" NAME="Return_Yield Coverage Results" MODIFIED="1675251403110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Basics" />
-    <SUITE FILE_PATH="coverage/Practise$web_scraping2.coverage" NAME="web_scraping2 Coverage Results" MODIFIED="1677049058786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_scraping" />
-    <SUITE FILE_PATH="coverage/Practise$SSL_certification__validation.coverage" NAME="SSL_certification_ validation Coverage Results" MODIFIED="1677683411981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Requests" />
+    <SUITE FILE_PATH="coverage/Practise$Generators_in_pytyhon.coverage" NAME="Generators in pytyhon Coverage Results" MODIFIED="1686558351905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Function" />
     <SUITE FILE_PATH="coverage/Practise$Tuple_Methods.coverage" NAME="Tuple_Methods Coverage Results" MODIFIED="1674475394308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Built_in_functions" />
     <SUITE FILE_PATH="coverage/Practise$os_module.coverage" NAME="os_module Coverage Results" MODIFIED="1677651215311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OS" />
+    <SUITE FILE_PATH="coverage/Practise$Inheritance.coverage" NAME="Inheritance Coverage Results" MODIFIED="1695030703869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Classes and objects" />
+    <SUITE FILE_PATH="coverage/Practise$UserString.coverage" NAME="UserString Coverage Results" MODIFIED="1686541641253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Collections" />
     <SUITE FILE_PATH="coverage/Practise$Example2.coverage" NAME="Example2 Coverage Results" MODIFIED="1677669888302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Shutil" />
+    <SUITE FILE_PATH="coverage/Practise$Any.coverage" NAME="Any Coverage Results" MODIFIED="1686559553724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Operators" />
     <SUITE FILE_PATH="coverage/Practise$alarm_clock.coverage" NAME="alarm_clock Coverage Results" MODIFIED="1676873367982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alarm clock" />
-    <SUITE FILE_PATH="coverage/Practise$Session_Objects.coverage" NAME="Session_Objects Coverage Results" MODIFIED="1677683611599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Requests" />
     <SUITE FILE_PATH="coverage/Practise$requests_module.coverage" NAME="requests_module Coverage Results" MODIFIED="1677683156299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Requests" />
-    <SUITE FILE_PATH="coverage/Practise$Json1.coverage" NAME="Json1 Coverage Results" MODIFIED="1678860178299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Json" />
+    <SUITE FILE_PATH="coverage/Practise$Json1.coverage" NAME="Json1 Coverage Results" MODIFIED="1686562236981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Json" />
     <SUITE FILE_PATH="coverage/Practise$game.coverage" NAME="game Coverage Results" MODIFIED="1675874407243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MasterMindGame" />
-    <SUITE FILE_PATH="coverage/Practise$json_assignment.coverage" NAME="json_assignment Coverage Results" MODIFIED="1678884271970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Json" />
-    <SUITE FILE_PATH="coverage/Practise$Lesson8_PriorityQueue.coverage" NAME="Lesson8_PriorityQueue Coverage Results" MODIFIED="1675248124312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataStructuresAndAlgorithms" />
+    <SUITE FILE_PATH="coverage/Practise$DefaultDict.coverage" NAME="DefaultDict Coverage Results" MODIFIED="1686479298930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Collections" />
+    <SUITE FILE_PATH="coverage/Practise$OnlyStrings.coverage" NAME="OnlyStrings Coverage Results" MODIFIED="1686549521340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Data structures" />
+    <SUITE FILE_PATH="coverage/Practise$staticmethod.coverage" NAME="staticmethod Coverage Results" MODIFIED="1686561275777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/PythonAdvance" />
+    <SUITE FILE_PATH="coverage/Practise$Lesson6_queue.coverage" NAME="Lesson6_queue Coverage Results" MODIFIED="1696002401697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataStructuresAndAlgorithms" />
     <SUITE FILE_PATH="coverage/Practise$subprocess_module.coverage" NAME="subprocess_module Coverage Results" MODIFIED="1677686570712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Subprocess_module" />
-    <SUITE FILE_PATH="coverage/Practise$GuessTheNumber.coverage" NAME="GuessTheNumber Coverage Results" MODIFIED="1671789753039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12BeginnerPythonprojects" />
-    <SUITE FILE_PATH="coverage/Practise$web_scraping4.coverage" NAME="web_scraping4 Coverage Results" MODIFIED="1677487116399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_scraping" />
-    <SUITE FILE_PATH="coverage/Practise$json_A2.coverage" NAME="json_A2 Coverage Results" MODIFIED="1678959394215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Json" />
+    <SUITE FILE_PATH="coverage/Practise$Desctructor.coverage" NAME="Desctructor Coverage Results" MODIFIED="1680710667975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Classes and objects" />
+    <SUITE FILE_PATH="coverage/Practise$json_A2.coverage" NAME="json_A2 Coverage Results" MODIFIED="1686562559023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Json" />
     <SUITE FILE_PATH="coverage/Practise$Set_Methods.coverage" NAME="Set_Methods Coverage Results" MODIFIED="1674527839271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Built_in_functions" />
-    <SUITE FILE_PATH="coverage/Practise$json_A1.coverage" NAME="json_A1 Coverage Results" MODIFIED="1678894579310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Json" />
+    <SUITE FILE_PATH="coverage/Practise$Userdefined.coverage" NAME="Userdefined Coverage Results" MODIFIED="1686553330950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Exception handling" />
     <SUITE FILE_PATH="coverage/Practise$sys_command_l_ne_args.coverage" NAME="sys_command_l;ne_args Coverage Results" MODIFIED="1677686001788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/sys_module" />
-    <SUITE FILE_PATH="coverage/Practise$logical_Operator.coverage" NAME="logical_Operator Coverage Results" MODIFIED="1675251302817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Basics" />
-    <SUITE FILE_PATH="coverage/Practise$Exception_handling.coverage" NAME="Exception_handling Coverage Results" MODIFIED="1675250937277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Basics" />
-    <SUITE FILE_PATH="coverage/Practise$Example1.coverage" NAME="Example1 Coverage Results" MODIFIED="1677683351039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Requests" />
-    <SUITE FILE_PATH="coverage/Practise$string_methods.coverage" NAME="string_methods Coverage Results" MODIFIED="1674055600227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Built_in_functions" />
+    <SUITE FILE_PATH="coverage/Practise$FirstClass.coverage" NAME="FirstClass Coverage Results" MODIFIED="1686558019120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Function" />
+    <SUITE FILE_PATH="coverage/Practise$CounterCollections.coverage" NAME="CounterCollections Coverage Results" MODIFIED="1686479078414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Collections" />
     <SUITE FILE_PATH="coverage/Practise$A.coverage" NAME="A Coverage Results" MODIFIED="1673928713374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Built_in_functions" />
-    <SUITE FILE_PATH="coverage/Practise$statement.coverage" NAME="statement Coverage Results" MODIFIED="1675251476817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Basics" />
-    <SUITE FILE_PATH="coverage/Practise$Python_Interview_Questions_1.coverage" NAME="Python_Interview_Questions_1 Coverage Results" MODIFIED="1675507727425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview" />
-    <SUITE FILE_PATH="coverage/Practise$re_module.coverage" NAME="re_module Coverage Results" MODIFIED="1677825004261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/RE" />
-    <SUITE FILE_PATH="coverage/Practise$classorstatic.coverage" NAME="classorstatic Coverage Results" MODIFIED="1675251906076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Classes and objects" />
-    <SUITE FILE_PATH="coverage/Practise$web_scraping.coverage" NAME="web_scraping Coverage Results" MODIFIED="1677469878439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_scraping" />
+    <SUITE FILE_PATH="coverage/Practise$Sets.coverage" NAME="Sets Coverage Results" MODIFIED="1686550514113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Data structures" />
+    <SUITE FILE_PATH="coverage/Practise$web_scraping.coverage" NAME="web_scraping Coverage Results" MODIFIED="1688704138885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HerotoZero/WebScraping" />
+    <SUITE FILE_PATH="coverage/Practise$Lesson2_List_and_tuple.coverage" NAME="Lesson2-List_and_tuple Coverage Results" MODIFIED="1695705241887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataStructuresAndAlgorithms" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Modules/Json/json_assignment.py">
+        <entry file="file://$PROJECT_DIR$/Developer/FullStackWebDevelopment/Readme">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="140">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Modules/Json/Json_module.py">
+        <entry file="file://$PROJECT_DIR$/PythonProjects/Count9.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1140">
-              <caret line="57" selection-start-line="57" selection-end-line="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Modules/Newtwork automation/Netmiko/netmiko.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Modules/Json/json_A2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1780">
-              <caret line="91" column="65" selection-start-line="91" selection-start-column="65" selection-end-line="91" selection-end-column="65" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="380">
+              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Modules/Newtwork automation/telenet_modules/telnet_module.py">
+        <entry file="file://$PROJECT_DIR$/GeeksforGeeks/Function/lambda.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="280">
+              <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -132,8 +215,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="HTML4 File" />
         <option value="Python Script" />
+        <option value="HTML4 File" />
       </list>
     </option>
   </component>
@@ -142,6 +225,8 @@
       <find>all</find>
       <find>get</find>
       <find>protocal</find>
+      <find>match</find>
+      <find>re.match</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;all -&quot;(all</replace>
@@ -156,111 +241,72 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Alarm clock/alarm_clock.py" />
-        <option value="$PROJECT_DIR$/Password_generator/password_generator.py" />
-        <option value="$PROJECT_DIR$/web_scraping/index.html" />
-        <option value="$PROJECT_DIR$/web_scraping/index2.html" />
-        <option value="$PROJECT_DIR$/web_scraping/web_scraping2.py" />
-        <option value="$PROJECT_DIR$/web_scraping/web_scraping.py" />
-        <option value="$PROJECT_DIR$/web_scraping/web_scraping3.py" />
-        <option value="$PROJECT_DIR$/web_scraping/web_scraping4.py" />
-        <option value="$PROJECT_DIR$/OS/os_module.py" />
-        <option value="$PROJECT_DIR$/Modules/argparse/Argparse.py" />
-        <option value="$PROJECT_DIR$/Modules/argparse/Example_2.py" />
-        <option value="$PROJECT_DIR$/Modules/argparse/Example3.py" />
-        <option value="$PROJECT_DIR$/Modules/Shutil/shutil_module.py" />
-        <option value="$PROJECT_DIR$/Modules/Shutil/Example2.py" />
-        <option value="$PROJECT_DIR$/Modules/Shutil/Example3.py" />
-        <option value="$PROJECT_DIR$/Modules/Shutil/Example4.py" />
-        <option value="$PROJECT_DIR$/Modules/Requests/requests.py" />
-        <option value="$PROJECT_DIR$/Modules/Requests/requests_module.py" />
-        <option value="$PROJECT_DIR$/Modules/Requests/Example1.py" />
-        <option value="$PROJECT_DIR$/Modules/Requests/SSL_certification_ validation.py" />
-        <option value="$PROJECT_DIR$/Modules/Requests/Session_Objects.py" />
-        <option value="$PROJECT_DIR$/Modules/sys_module/sys_module.py" />
-        <option value="$PROJECT_DIR$/Modules/sys_module/sys_command_l;ne_args.py" />
-        <option value="$PROJECT_DIR$/Modules/sys_module/sys_command_line_args.py" />
-        <option value="$PROJECT_DIR$/Modules/subprocess.py" />
-        <option value="$PROJECT_DIR$/Modules/Subprocess_module/hello_World.c" />
-        <option value="$PROJECT_DIR$/Modules/Subprocess_module/hello_c++.cc" />
-        <option value="$PROJECT_DIR$/Modules/Subprocess_module/hello.java" />
-        <option value="$PROJECT_DIR$/Modules/Subprocess_module/subprocess_module.py" />
-        <option value="$PROJECT_DIR$/Modules/RE/re_module.py" />
-        <option value="$PROJECT_DIR$/Modules/RE/re_module_set2.py" />
-        <option value="$PROJECT_DIR$/Modules/Socket/socket_module.py" />
-        <option value="$PROJECT_DIR$/Modules/Socket/Server_client.py" />
-        <option value="$PROJECT_DIR$/Modules/Socket/Socket_understanding.py" />
-        <option value="$PROJECT_DIR$/Modules/Time/time.py" />
-        <option value="$PROJECT_DIR$/Modules/Time/time_module.py" />
-        <option value="$PROJECT_DIR$/Modules/Newtwork automation/paramiko_modules/paramiko_module.py" />
-        <option value="$PROJECT_DIR$/Modules/Newtwork automation/paramiko_modules/paramiko_part1.py" />
-        <option value="$PROJECT_DIR$/Modules/Ftp_module/fptlib_module.py" />
-        <option value="$PROJECT_DIR$/Modules/SMTP/smtp_module.py" />
-        <option value="$PROJECT_DIR$/Yet to Learn/Learn these" />
-        <option value="$PROJECT_DIR$/web_scraping/Web_Scrapping_geeks/web_scrapping.py" />
-        <option value="$PROJECT_DIR$/API/API_learning.py" />
-        <option value="$PROJECT_DIR$/Modules/Json/pickle_module.py" />
-        <option value="$PROJECT_DIR$/Modules/Json/Json1.py" />
-        <option value="$PROJECT_DIR$/Modules/Json/json_assignment.py" />
-        <option value="$PROJECT_DIR$/Modules/Json/json_A1.py" />
-        <option value="$PROJECT_DIR$/Modules/Json/json_A2.py" />
-        <option value="$PROJECT_DIR$/Modules/Json/Json_module.py" />
-        <option value="$PROJECT_DIR$/Modules/Netmiko/netmiko.py" />
-        <option value="$PROJECT_DIR$/Modules/Newtwork automation/telenet_modules/telnet_module.py" />
+        <option value="$PROJECT_DIR$/GeeksforGeeks/Function/args and kwargs.py" />
+        <option value="$PROJECT_DIR$/GeeksforGeeks/PythonAdvance/Map.py" />
+        <option value="$PROJECT_DIR$/GeeksforGeeks/PythonAdvance/Metaprogramming.py" />
+        <option value="$PROJECT_DIR$/PythonSelenium/PythonSelenium2023/Day1.py" />
+        <option value="$PROJECT_DIR$/PythonSelenium/ActionsDemo.py" />
+        <option value="$PROJECT_DIR$/Python_Selenium_Robot/TC1.robot.py" />
+        <option value="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC1.robot" />
+        <option value="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC2.robot" />
+        <option value="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC4.robot" />
+        <option value="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC3.robot" />
+        <option value="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC5.robot" />
+        <option value="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC6.robot" />
+        <option value="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC7.robot" />
+        <option value="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC8.robot" />
+        <option value="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC9.robot" />
+        <option value="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC10.robot" />
+        <option value="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC11.robot" />
+        <option value="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC12.robot" />
+        <option value="$PROJECT_DIR$/Python_Selenium_Robot/Resources/resources.robot" />
+        <option value="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC13.robot" />
+        <option value="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC14.robot" />
+        <option value="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC15.robot" />
+        <option value="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC16.robot" />
+        <option value="$PROJECT_DIR$/Python_Selenium_Robot/Resources/login_resources.robot" />
+        <option value="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC17.robot" />
+        <option value="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC18.robot" />
+        <option value="$PROJECT_DIR$/Python_Selenium_Robot/TestData/mydb_person_insertData.sql" />
+        <option value="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC19.robot" />
+        <option value="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC20.robot" />
+        <option value="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC21.robot" />
+        <option value="$PROJECT_DIR$/Python_Selenium_Robot/PageObjects/Locators.py" />
+        <option value="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC22.robot" />
+        <option value="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC23.robot" />
+        <option value="$PROJECT_DIR$/PythonSelenium/ChildWindows.py" />
+        <option value="$PROJECT_DIR$/PythonSelenium/FramesDemo.py" />
+        <option value="$PROJECT_DIR$/GeeksforGeeks/Classes and objects/Classmethodorstaticmethod.py" />
+        <option value="$PROJECT_DIR$/GeeksforGeeks/Classes and objects/PrivateVariable.py" />
+        <option value="$PROJECT_DIR$/Yet to Learn/Delete.py" />
+        <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson5_stack_with_module.py" />
+        <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson8_PriorityQueue.py" />
+        <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Delete.py" />
+        <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Array interview problems/1_peak_element.py" />
+        <option value="$PROJECT_DIR$/Developer/Django/myproject/myproject/urls.py" />
+        <option value="$PROJECT_DIR$/Developer/Django/myproject/myapp/urls.py" />
+        <option value="$PROJECT_DIR$/Developer/Django/myproject/templates/counter.html" />
+        <option value="$PROJECT_DIR$/Developer/Django/myproject/myapp/views.py" />
+        <option value="$PROJECT_DIR$/Developer/Django/myproject/myproject/settings.py" />
+        <option value="$PROJECT_DIR$/Developer/Django/myproject/static/styles.css" />
+        <option value="$PROJECT_DIR$/Developer/Django/myproject/templates/index.html" />
+        <option value="$PROJECT_DIR$/Developer/FullStackWebDevelopment/Readme" />
+        <option value="$PROJECT_DIR$/GeeksforGeeks/Function/lambda.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-12" />
-    <option name="y" value="-12" />
-    <option name="width" value="1462" />
-    <option name="height" value="1716" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-6" />
+    <option name="y" value="-6" />
+    <option name="width" value="978" />
+    <option name="height" value="858" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="Practise" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-            <path>
-              <item name="Practise" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="API" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Practise" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Modules" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Practise" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Modules" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Newtwork automation" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Practise" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Modules" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Newtwork automation" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="telenet_modules" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Practise" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Yet to Learn" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -268,27 +314,73 @@
               <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
               <item name="Practise" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practise" type="462c0819:PsiDirectoryNode" />
+              <item name="GeeksforGeeks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practise" type="462c0819:PsiDirectoryNode" />
+              <item name="GeeksforGeeks" type="462c0819:PsiDirectoryNode" />
+              <item name="Classes and objects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practise" type="462c0819:PsiDirectoryNode" />
+              <item name="GeeksforGeeks" type="462c0819:PsiDirectoryNode" />
+              <item name="Function" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practise" type="462c0819:PsiDirectoryNode" />
+              <item name="GeeksforGeeks" type="462c0819:PsiDirectoryNode" />
+              <item name="Regex" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practise" type="462c0819:PsiDirectoryNode" />
+              <item name="PythonProjects" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML4 File" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../.git" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Practise" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Practise" />
+      </console-settings>
+    </option>
+  </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\slaishet\PycharmProjects\Practise\Alarm clock" />
-      <recent name="C:\Users\slaishet\PycharmProjects\Practise\Program archiecture" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\slaishet\PycharmProjects\Practise\Developer\Django\myproject\static" />
+      <recent name="C:\Users\slaishet\PycharmProjects\Practise\Python_Selenium_Robot\Resources" />
+      <recent name="C:\Users\slaishet\PycharmProjects\Practise\Python_Selenium_Robot\TestCases" />
       <recent name="C:\Users\slaishet\PycharmProjects\Practise\Modules\Newtwork automation" />
       <recent name="C:\Users\slaishet\PycharmProjects\Practise\Modules\Subprocess_module" />
-      <recent name="C:\Users\slaishet\PycharmProjects\Practise\Modules" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\slaishet\PycharmProjects\Practise\Developer\Django\myproject" />
+      <recent name="C:\Users\slaishet\PycharmProjects\Practise\PythonSelenium" />
+      <recent name="C:\Users\slaishet\PycharmProjects\Practise\Alarm clock" />
+      <recent name="C:\Users\slaishet\PycharmProjects\Practise\Program archiecture" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -303,7 +395,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.telnet_module">
+  <component name="RunManager" selected="Python.lambda">
+    <configuration name="1_peak_element" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Array interview problems" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Array interview problems/1_peak_element.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Argparse" type="PythonConfigurationType" factoryName="Python">
       <module name="Practise" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -319,6 +433,28 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modules/argparse/Argparse.py" />
       <option name="PARAMETERS" value="1 2 3 4" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Delete (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataStructuresAndAlgorithms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Delete.py" />
+      <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -370,7 +506,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Json1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Lesson5_stack_with_module" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -378,12 +514,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Modules/Json" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataStructuresAndAlgorithms" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modules/Json/Json1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson5_stack_with_module.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -392,7 +528,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="json_A1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Lesson6_queue" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -400,12 +536,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Modules/Json" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataStructuresAndAlgorithms" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modules/Json/json_A1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson6_queue.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -414,7 +550,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="json_A2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="lambda" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -422,56 +558,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Modules/Json" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GeeksforGeeks/Function" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modules/Json/json_A2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="json_assignment" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Practise" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Modules/Json" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modules/Json/json_assignment.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="telnet_module" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Practise" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Modules/Newtwork automation/telenet_modules" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modules/Newtwork automation/telenet_modules/telnet_module.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GeeksforGeeks/Function/lambda.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -484,19 +576,19 @@
       <item itemvalue="Python.Argparse" />
       <item itemvalue="Python.Example_2" />
       <item itemvalue="Python.Example3" />
-      <item itemvalue="Python.Json1" />
-      <item itemvalue="Python.json_assignment" />
-      <item itemvalue="Python.json_A1" />
-      <item itemvalue="Python.json_A2" />
-      <item itemvalue="Python.telnet_module" />
+      <item itemvalue="Python.Delete (1)" />
+      <item itemvalue="Python.Lesson5_stack_with_module" />
+      <item itemvalue="Python.Lesson6_queue" />
+      <item itemvalue="Python.1_peak_element" />
+      <item itemvalue="Python.lambda" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.telnet_module" />
-        <item itemvalue="Python.json_A2" />
-        <item itemvalue="Python.json_A1" />
-        <item itemvalue="Python.json_assignment" />
-        <item itemvalue="Python.Json1" />
+        <item itemvalue="Python.lambda" />
+        <item itemvalue="Python.1_peak_element" />
+        <item itemvalue="Python.Delete (1)" />
+        <item itemvalue="Python.Lesson6_queue" />
+        <item itemvalue="Python.Lesson5_stack_with_module" />
       </list>
     </recent_temporary>
   </component>
@@ -533,6 +625,31 @@
       <workItem from="1678378036463" duration="19387000" />
       <workItem from="1678771078277" duration="21872000" />
       <workItem from="1679032461189" duration="7000" />
+      <workItem from="1680493066799" duration="16879000" />
+      <workItem from="1685333063790" duration="1230000" />
+      <workItem from="1686111547864" duration="144000" />
+      <workItem from="1686458691705" duration="22807000" />
+      <workItem from="1688224999175" duration="849000" />
+      <workItem from="1688529758790" duration="55000" />
+      <workItem from="1688700981262" duration="3094000" />
+      <workItem from="1688705204469" duration="1611000" />
+      <workItem from="1688706847730" duration="20879000" />
+      <workItem from="1688815570915" duration="8758000" />
+      <workItem from="1688963135688" duration="24000" />
+      <workItem from="1689081999060" duration="3537000" />
+      <workItem from="1690174484157" duration="595000" />
+      <workItem from="1695028413315" duration="2496000" />
+      <workItem from="1695704826188" duration="13002000" />
+      <workItem from="1696000597782" duration="6135000" />
+      <workItem from="1696301782790" duration="15000" />
+      <workItem from="1696306458713" duration="881000" />
+      <workItem from="1696569296246" duration="1244000" />
+      <workItem from="1697040117830" duration="1219000" />
+      <workItem from="1697089719771" duration="11130000" />
+      <workItem from="1697369879921" duration="546000" />
+      <workItem from="1697888364259" duration="2314000" />
+      <workItem from="1698122661082" duration="777000" />
+      <workItem from="1699522437855" duration="696000" />
     </task>
     <task id="LOCAL-00001" summary="Daily email digest archietcture">
       <created>1673241695142</created>
@@ -545,7 +662,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="193686000" />
+    <option name="totallyTimeSpent" value="314603000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -557,32 +674,58 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1453" height="865" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1048" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.39673105" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13486141" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32789117" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40408164" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49964157" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3726776" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49964157" weight="0.30054644" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49964157" weight="0.32789117" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49964157" weight="0.32748538" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49946696" weight="0.3265306" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5003584" side_tool="true" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49946696" weight="0.32108843" />
-      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32517007" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49946696" weight="0.39863947" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.3245033" />
       <window_info anchor="bottom" id="Database Changes" order="12" sideWeight="0.49892473" weight="0.32789117" />
+      <window_info anchor="bottom" id="ExcelReader" order="13" weight="0.32908458" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.3297491" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.3297491" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3297491" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3508772" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32789117" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3726776" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49964157" weight="0.30054644" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49964157" weight="0.32748538" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49946696" weight="0.3265306" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5003584" side_tool="true" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49946696" visible="true" weight="0.32671082" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.3245033" />
+      <window_info anchor="bottom" id="Database Changes" order="12" sideWeight="0.49892473" weight="0.32789117" />
+      <window_info anchor="bottom" id="ExcelReader" order="13" weight="0.32908458" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Remote Host" order="3" />
       <window_info anchor="right" id="SciView" order="4" />
       <window_info anchor="right" id="Database" order="5" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -596,380 +739,316 @@
     <state width="267" height="288" key="Git.Branch.Popup/2880.1800/1920.1080" />
     <state width="267" height="288" key="Git.Branch.Popup@1920.1080" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Yet to Learn/Delete.py</url>
+          <line>98</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web_scraping/web_scraping2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="54" column="22" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web_scraping/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web_scraping/web_scraping3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1040">
-          <caret line="52" column="19" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web_scraping/web_scraping4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web_scraping/index2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="730">
-          <caret line="163" column="7" selection-start-line="163" selection-start-column="7" selection-end-line="163" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MasterMindGame/game.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="824">
-          <caret line="63" column="38" selection-start-line="63" selection-start-column="38" selection-end-line="63" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/OS/os_module.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="79" selection-start-line="79" selection-end-line="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/argparse/Argparse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-680">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/argparse/Example_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/argparse/Example3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/Shutil/shutil_module.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="e#804#817#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/Shutil/Example2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#166#175#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/Shutil/Example3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/Shutil/check.txt">
+    <entry file="file://$PROJECT_DIR$/GeeksforGeeks/Classes and objects/Multiple.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/requests/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="125" column="14" selection-start-line="125" selection-start-column="11" selection-end-line="125" selection-end-column="14" />
-          <folding>
-            <element signature="e#852#867#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/Shutil/Example4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-          <folding>
-            <element signature="e#889#902#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/Requests/SSL_certification_ validation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/Requests/Session_Objects.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/sys_module/sys_module.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="63" column="3" lean-forward="true" selection-start-line="63" selection-start-column="3" selection-end-line="63" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/sys_module/sys_command_line_args.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="80" column="27" lean-forward="true" selection-start-line="80" selection-start-column="27" selection-end-line="80" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/Subprocess_module/hello_World.c">
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Array.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/Subprocess_module/hello_c++.cc">
+    <entry file="file://$PROJECT_DIR$/Yet to Learn/Delete.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson1-DataStructure.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson2-List_and_tuple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson3-Set_and_dictionary.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson4-Stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-417">
+          <caret line="48" column="4" lean-forward="true" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="177" selection-start-line="177" selection-end-line="177" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson5_stack_with_module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson6_queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-537">
+          <caret line="36" column="18" lean-forward="true" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson9_LinkedList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson7_Queue_module.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson8_PriorityQueue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Delete.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson10_Singly.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+          <folding>
+            <element signature="n#!!doc" />
+            <element signature="e#2349#2497#0" />
+            <element signature="e#2383#2437#0" />
+            <element signature="e#2559#2691#0" />
+            <element signature="e#2750#3026#0" />
+            <element signature="e#2921#3026#0" />
+            <element signature="e#3094#3522#0" />
+            <element signature="e#3128#3167#0" />
+            <element signature="e#3212#3256#0" />
+            <element signature="e#3310#3447#0" />
+            <element signature="e#3354#3409#0" />
+            <element signature="e#3640#3659#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Array interview problems/1_peak_element.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/Subprocess_module/hello.java">
+    <entry file="file://$PROJECT_DIR$/GeeksforGeeks/Classes and objects/Classmethodorstaticmethod.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        <state relative-caret-position="664">
+          <caret line="42" column="19" lean-forward="true" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/RE/re_module.py">
+    <entry file="file://$PROJECT_DIR$/GeeksforGeeks/Classes and objects/classorstatic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="438" column="30" selection-start-line="438" selection-start-column="29" selection-end-line="438" selection-end-column="30" />
+        <state relative-caret-position="340">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/RE/re_module_set2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/Socket/socket_module.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="55" column="24" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/Socket/Server_client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/Socket/Socket_understanding.py">
+    <entry file="file://$PROJECT_DIR$/GeeksforGeeks/Classes and objects/Desctructor.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/Subprocess_module/subprocess_module.py">
+    <entry file="file://$PROJECT_DIR$/GeeksforGeeks/Classes and objects/Encapsulation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-270">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#0#17#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="200">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/Time/time_module.py">
+    <entry file="file://$PROJECT_DIR$/GeeksforGeeks/Classes and objects/Inheritance.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="22" column="39" lean-forward="true" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+        <state relative-caret-position="140">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/paramiko/hostkeys.py">
+    <entry file="file://$PROJECT_DIR$/GeeksforGeeks/Classes and objects/Polymorphisim.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GeeksforGeeks/Classes and objects/Classes.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GeeksforGeeks/Classes and objects/Polymorphism with inheritance.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GeeksforGeeks/Classes and objects/Polymorphismwithfunctionandobjects.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GeeksforGeeks/Classes and objects/PrivateVariable.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        <state relative-caret-position="340">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/Newtwork automation/paramiko_modules/paramiko_module.py">
+    <entry file="file://$PROJECT_DIR$/GeeksforGeeks/Classes and objects/TypesofInheritance.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        <state relative-caret-position="300">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/paramiko/client.py">
+    <entry file="file://$PROJECT_DIR$/GeeksforGeeks/Collections/ChainMap.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GeeksforGeeks/Collections/Deque.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GeeksforGeeks/Classes and objects/Private.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6840">
-          <caret line="364" selection-start-line="364" selection-end-line="364" />
+        <state relative-caret-position="360">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/Newtwork automation/paramiko_modules/paramiko_part1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="80" column="11" lean-forward="true" selection-start-line="80" selection-start-column="11" selection-end-line="80" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-            <element signature="e#220#1563#0" />
-            <element signature="e#2289#2318#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/Ftp_module/fptlib_module.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/SMTP/smtp_module.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/HerotoZero/Oop challenge/OOPchallenge.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/API/API_learning.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Yet to Learn/Learn these">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2986" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Developer/Django/myproject/myapp/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Developer/Django/myproject/myapp/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Developer/Django/myproject/myapp/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Developer/Django/myproject/myapp/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Developer/Django/myproject/myapp/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Developer/Django/myproject/manage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Developer/Django/myproject/myproject/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <folding>
+            <element signature="e#633#665#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Developer/Django/myproject/myproject/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Developer/Django/myproject/myproject/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="121" column="52" selection-start-line="121" selection-start-column="52" selection-end-line="121" selection-end-column="52" />
+          <folding>
+            <element signature="e#311#335#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Developer/Django/myproject/OnePage/OnePage/forms/Readme.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Developer/Django/myproject/static/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Developer/Django/myproject/templates/counter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Developer/Django/myproject/myapp/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Developer/Django/myproject/myapp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Developer/Django/myproject/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Developer/FullStackWebDevelopment/Readme">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web_scraping/Web_Scrapping_geeks/web_scrapping.py">
+    <entry file="file://$PROJECT_DIR$/PythonProjects/Count9.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#64#79#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="380">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Yet to Learn/Learn these">
+    <entry file="file://$PROJECT_DIR$/GeeksforGeeks/Function/lambda.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-600">
-          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/Json/try.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/Requests/requests_module.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="81" selection-start-line="81" selection-end-line="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/Requests/Authentication.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="85" lean-forward="true" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="85" />
-          <folding>
-            <element signature="e#40#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/Json/a1.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/Json/json_A1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="101" selection-start-line="101" selection-end-line="101" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/Json/Json1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/Json/pickle_module.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/Json/json_assignment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/Json/Json_module.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="57" selection-start-line="57" selection-end-line="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/Newtwork automation/Netmiko/netmiko.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/Json/json_A2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1780">
-          <caret line="91" column="65" selection-start-line="91" selection-start-column="65" selection-end-line="91" selection-end-column="65" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/Newtwork automation/telenet_modules/telnet_module.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="280">
+          <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
         </state>
       </provider>
     </entry>

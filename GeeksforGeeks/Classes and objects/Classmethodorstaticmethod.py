@@ -5,9 +5,11 @@ class C(object):
 
 """A class method takes cls as the first parameter while a static method needs no specific parameters.
 A class method can access or modify the class state while a static method can’t access or modify it.
-In general, static methods know nothing about the class state. They are utility-type methods that take some parameters 
+In general, static methods know nothing about the class state. They are utility-type methods that take
+ some parameters 
 and work upon those parameters. On the other hand class methods must have class as a parameter.
-We use @classmethod decorator in python to create a class method and we use @staticmethod decorator to create a static 
+We use @classmethod decorator in python to create a class method and we use @staticmethod decorator to 
+create a static 
 method in python.
 """
 

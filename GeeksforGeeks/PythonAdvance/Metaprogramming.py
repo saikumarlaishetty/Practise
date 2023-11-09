@@ -14,7 +14,7 @@ __init__(): This method just initialize the created object
 def test_method(self):
     print("This is the test method! ")
 
-# Creating a base class
+# Creating a base cladresses from tamil nadu and amazon fire stickss
 class Base:
     def myfun(self):
         print("This is inherited method!")

@@ -55,9 +55,9 @@ kwargs = {"arg1":"Geeks","arg2":"for","arg3":"Geeks"}
 fu(*kwargs)
 
 # args and kwargs in same line of function
-def ar(*ars,**kwars):
+def ar(*ars,**kwargs):
     print(*ars)
-    print(**kwars)
+    print(**kwargs)
 
 ar('geeks','for','geeks',first="Geeks",mid="for",last="Geeks")
 

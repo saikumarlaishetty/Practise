@@ -1,8 +1,10 @@
 from selenium import webdriver
 from selenium.webdriver import ActionChains
 
-driver = webdriver.Chrome(executable_path="C:\\Users\\slaishet\\AppData\\Local\\Programs\\Python\\Python37-32\\chromedriver.exe")
+driver = webdriver.Chrome(executable_path="C:\\Users\\slaishet\\PycharmProjects\\Practise\\PythonSelenium\\chromedriver_win32\\chromedriver.exe")
 
+
+#C:\Users\slaishet\PycharmProjects\Practise\PythonSelenium\chromedriver_win32
 driver.get("https://rahulshettyacademy.com/AutomationPractice/")
 
 action = ActionChains(driver)

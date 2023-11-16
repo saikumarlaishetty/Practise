@@ -2,54 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e695e0c-1065-4d81-b4cc-ab86b5683fe8" name="Default Changelist" comment="Daily email digest archietcture">
-      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/Array interview problems/1_peak_element.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Developer/Django/myproject/myapp/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Developer/Django/myproject/static/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Developer/Django/myproject/templates/counter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Developer/Django/myproject/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Developer/FullStackWebDevelopment/Readme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonSelenium/PythonSelenium2023/Day1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonSelenium/chromedriver_win32/LICENSE.chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonSelenium/chromedriver_win32/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/PageObjects/Locators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/PageObjects/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/Resources/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/Resources/loginKeywords.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/Resources/login_resources.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/Resources/resources.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC1.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC10.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC11.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC12.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC13.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC14.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC15.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC16.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC17.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC18.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC19.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC2.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC20.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC21.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC22.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC23.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC3.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC4.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC5.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC6.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC7.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC8.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC9.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestData/LoginData.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestData/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Selenium_Robot/TestData/mydb_person_insertData.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guru99/LivePythonProject/Day1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guru99/LivePythonProject/Emissions.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeeksforGeeks/Classes and objects/Classmethodorstaticmethod.py" beforeDir="false" afterPath="$PROJECT_DIR$/GeeksforGeeks/Classes and objects/Classmethodorstaticmethod.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeeksforGeeks/Function/args and kwargs.py" beforeDir="false" afterPath="$PROJECT_DIR$/GeeksforGeeks/Function/args and kwargs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeeksforGeeks/Function/example.log" beforeDir="false" afterPath="$PROJECT_DIR$/GeeksforGeeks/Function/example.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeeksforGeeks/Function/lambda.py" beforeDir="false" afterPath="$PROJECT_DIR$/GeeksforGeeks/Function/lambda.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeeksforGeeks/PythonAdvance/Metaprogramming.py" beforeDir="false" afterPath="$PROJECT_DIR$/GeeksforGeeks/PythonAdvance/Metaprogramming.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonSelenium/ActionsDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonSelenium/ActionsDemo.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +22,7 @@
     <SUITE FILE_PATH="coverage/Practise$Heapq.coverage" NAME="Heapq Coverage Results" MODIFIED="1686540338025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Collections" />
     <SUITE FILE_PATH="coverage/Practise$Argparse.coverage" NAME="Argparse Coverage Results" MODIFIED="1686561549698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/argparse" />
     <SUITE FILE_PATH="coverage/Practise$List.coverage" NAME="List Coverage Results" MODIFIED="1686459932031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Basics" />
+    <SUITE FILE_PATH="coverage/Practise$Day1.coverage" NAME="Day1 Coverage Results" MODIFIED="1699626804804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/guru99/LivePythonProject" />
     <SUITE FILE_PATH="coverage/Practise$web_scraping3.coverage" NAME="web_scraping3 Coverage Results" MODIFIED="1677470405945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_scraping" />
     <SUITE FILE_PATH="coverage/Practise$PrivateVariable.coverage" NAME="PrivateVariable Coverage Results" MODIFIED="1695030922222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Classes and objects" />
     <SUITE FILE_PATH="coverage/Practise$Operator_Overloading.coverage" NAME="Operator_Overloading Coverage Results" MODIFIED="1686559643861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Operators" />
@@ -82,9 +38,11 @@
     <SUITE FILE_PATH="coverage/Practise$time_module.coverage" NAME="time_module Coverage Results" MODIFIED="1678418628213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Time" />
     <SUITE FILE_PATH="coverage/Practise$web_scraping2.coverage" NAME="web_scraping2 Coverage Results" MODIFIED="1677049058786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_scraping" />
     <SUITE FILE_PATH="coverage/Practise$SSL_certification__validation.coverage" NAME="SSL_certification_ validation Coverage Results" MODIFIED="1677683411981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Requests" />
+    <SUITE FILE_PATH="coverage/Practise$Day2.coverage" NAME="Day2 Coverage Results" MODIFIED="1699626218397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/guru99/LivePythonProject" />
     <SUITE FILE_PATH="coverage/Practise$Strings.coverage" NAME="Strings Coverage Results" MODIFIED="1686550695178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Data structures" />
     <SUITE FILE_PATH="coverage/Practise$Session_Objects.coverage" NAME="Session_Objects Coverage Results" MODIFIED="1677683611599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Requests" />
     <SUITE FILE_PATH="coverage/Practise$args_and_kwargs.coverage" NAME="args and kwargs Coverage Results" MODIFIED="1686553617911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Function" />
+    <SUITE FILE_PATH="coverage/Practise$Day5.coverage" NAME="Day5 Coverage Results" MODIFIED="1699938729756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/guru99/LivePythonProject" />
     <SUITE FILE_PATH="coverage/Practise$Lesson5_stack_with_module.coverage" NAME="Lesson5_stack_with_module Coverage Results" MODIFIED="1696001860008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataStructuresAndAlgorithms" />
     <SUITE FILE_PATH="coverage/Practise$json_assignment.coverage" NAME="json_assignment Coverage Results" MODIFIED="1678884271970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Json" />
     <SUITE FILE_PATH="coverage/Practise$ActionsDemo.coverage" NAME="ActionsDemo Coverage Results" MODIFIED="1688706003554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonSelenium" />
@@ -118,9 +76,11 @@
     <SUITE FILE_PATH="coverage/Practise$CollectionsModule.coverage" NAME="CollectionsModule Coverage Results" MODIFIED="1686559739589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/PythonAdvance" />
     <SUITE FILE_PATH="coverage/Practise$ChainMap.coverage" NAME="ChainMap Coverage Results" MODIFIED="1686478842082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Collections" />
     <SUITE FILE_PATH="coverage/Practise$paramiko_part1.coverage" NAME="paramiko_part1 Coverage Results" MODIFIED="1678776395725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Newtwork automation/paramiko_modules" />
+    <SUITE FILE_PATH="coverage/Practise$Day4.coverage" NAME="Day4 Coverage Results" MODIFIED="1699807952160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/guru99/LivePythonProject" />
     <SUITE FILE_PATH="coverage/Practise$Cows_and_bulls.coverage" NAME="Cows_and_bulls Coverage Results" MODIFIED="1671789804266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VamsiBhavani Telugu" />
     <SUITE FILE_PATH="coverage/Practise$Arrays.coverage" NAME="Arrays Coverage Results" MODIFIED="1686549235650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Data structures" />
     <SUITE FILE_PATH="coverage/Practise$EException.coverage" NAME="EException Coverage Results" MODIFIED="1686553160599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Exception handling" />
+    <SUITE FILE_PATH="coverage/Practise$Day3.coverage" NAME="Day3 Coverage Results" MODIFIED="1699766377252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/guru99/LivePythonProject" />
     <SUITE FILE_PATH="coverage/Practise$Dict_Methods.coverage" NAME="Dict_Methods Coverage Results" MODIFIED="1674445898560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Built_in_functions" />
     <SUITE FILE_PATH="coverage/Practise$telnet_module.coverage" NAME="telnet_module Coverage Results" MODIFIED="1686563087547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules/Newtwork automation/telenet_modules" />
     <SUITE FILE_PATH="coverage/Practise$Operator.coverage" NAME="Operator Coverage Results" MODIFIED="1686559594575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeeksforGeeks/Operators" />
@@ -183,28 +143,65 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Developer/FullStackWebDevelopment/Readme">
+        <entry file="file://$PROJECT_DIR$/guru99/LivePythonProject/Day1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="1120">
+              <caret line="56" column="32" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PythonProjects/Count9.py">
+        <entry file="file://$PROJECT_DIR$/guru99/LivePythonProject/Day2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+            <state relative-caret-position="-1040">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/guru99/LivePythonProject/Day3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-20">
+              <caret line="57" column="1" lean-forward="true" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/guru99/LivePythonProject/Day4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="700">
+              <caret line="168" selection-start-line="168" selection-end-line="168" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/guru99/LivePythonProject/Day5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="534">
+              <caret line="220" column="1" lean-forward="true" selection-start-line="220" selection-start-column="1" selection-end-line="220" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+                <element signature="e#238#308#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/GeeksforGeeks/Function/lambda.py">
+        <entry file="file://$PROJECT_DIR$/guru99/LivePythonProject/Day6.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+            <state relative-caret-position="1600">
+              <caret line="113" column="7" lean-forward="true" selection-start-line="113" selection-start-column="7" selection-end-line="113" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -215,8 +212,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="Python Script" />
         <option value="HTML4 File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -241,12 +238,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/GeeksforGeeks/Function/args and kwargs.py" />
-        <option value="$PROJECT_DIR$/GeeksforGeeks/PythonAdvance/Map.py" />
-        <option value="$PROJECT_DIR$/GeeksforGeeks/PythonAdvance/Metaprogramming.py" />
-        <option value="$PROJECT_DIR$/PythonSelenium/PythonSelenium2023/Day1.py" />
-        <option value="$PROJECT_DIR$/PythonSelenium/ActionsDemo.py" />
-        <option value="$PROJECT_DIR$/Python_Selenium_Robot/TC1.robot.py" />
         <option value="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC1.robot" />
         <option value="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC2.robot" />
         <option value="$PROJECT_DIR$/Python_Selenium_Robot/TestCases/TC4.robot" />
@@ -292,14 +283,19 @@
         <option value="$PROJECT_DIR$/Developer/Django/myproject/templates/index.html" />
         <option value="$PROJECT_DIR$/Developer/FullStackWebDevelopment/Readme" />
         <option value="$PROJECT_DIR$/GeeksforGeeks/Function/lambda.py" />
+        <option value="$PROJECT_DIR$/guru99/LivePythonProject/Day1.py" />
+        <option value="$PROJECT_DIR$/guru99/LivePythonProject/Day2.py" />
+        <option value="$PROJECT_DIR$/guru99/LivePythonProject/Day3.py" />
+        <option value="$PROJECT_DIR$/guru99/LivePythonProject/Day4.py" />
+        <option value="$PROJECT_DIR$/guru99/LivePythonProject/Day5.py" />
+        <option value="$PROJECT_DIR$/guru99/LivePythonProject/Day6.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-6" />
-    <option name="y" value="-6" />
-    <option name="width" value="978" />
-    <option name="height" value="858" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="480" />
+    <option name="width" value="963" />
+    <option name="height" value="547" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -317,30 +313,13 @@
             <path>
               <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
               <item name="Practise" type="462c0819:PsiDirectoryNode" />
-              <item name="GeeksforGeeks" type="462c0819:PsiDirectoryNode" />
+              <item name="guru99" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
               <item name="Practise" type="462c0819:PsiDirectoryNode" />
-              <item name="GeeksforGeeks" type="462c0819:PsiDirectoryNode" />
-              <item name="Classes and objects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practise" type="462c0819:PsiDirectoryNode" />
-              <item name="GeeksforGeeks" type="462c0819:PsiDirectoryNode" />
-              <item name="Function" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practise" type="462c0819:PsiDirectoryNode" />
-              <item name="GeeksforGeeks" type="462c0819:PsiDirectoryNode" />
-              <item name="Regex" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practise" type="462c0819:PsiDirectoryNode" />
-              <item name="PythonProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="guru99" type="462c0819:PsiDirectoryNode" />
+              <item name="LivePythonProject" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -369,18 +348,19 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\slaishet\PycharmProjects\Practise\guru99\LivePythonProject" />
+      <recent name="C:\Users\slaishet\PycharmProjects\Practise\Developer\Django\myproject" />
+      <recent name="C:\Users\slaishet\PycharmProjects\Practise\PythonSelenium" />
+      <recent name="C:\Users\slaishet\PycharmProjects\Practise\Alarm clock" />
+      <recent name="C:\Users\slaishet\PycharmProjects\Practise\Program archiecture" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\slaishet\PycharmProjects\Practise\Developer\Django\myproject\static" />
       <recent name="C:\Users\slaishet\PycharmProjects\Practise\Python_Selenium_Robot\Resources" />
       <recent name="C:\Users\slaishet\PycharmProjects\Practise\Python_Selenium_Robot\TestCases" />
       <recent name="C:\Users\slaishet\PycharmProjects\Practise\Modules\Newtwork automation" />
       <recent name="C:\Users\slaishet\PycharmProjects\Practise\Modules\Subprocess_module" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\slaishet\PycharmProjects\Practise\Developer\Django\myproject" />
-      <recent name="C:\Users\slaishet\PycharmProjects\Practise\PythonSelenium" />
-      <recent name="C:\Users\slaishet\PycharmProjects\Practise\Alarm clock" />
-      <recent name="C:\Users\slaishet\PycharmProjects\Practise\Program archiecture" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -395,29 +375,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.lambda">
-    <configuration name="1_peak_element" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Practise" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Array interview problems" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Array interview problems/1_peak_element.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Day5">
     <configuration name="Argparse" type="PythonConfigurationType" factoryName="Python">
       <module name="Practise" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -440,7 +398,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Delete (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Day1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -448,12 +406,100 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataStructuresAndAlgorithms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/guru99/LivePythonProject" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Delete.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/guru99/LivePythonProject/Day1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Day2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/guru99/LivePythonProject" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/guru99/LivePythonProject/Day2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Day3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/guru99/LivePythonProject" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/guru99/LivePythonProject/Day3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Day4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/guru99/LivePythonProject" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/guru99/LivePythonProject/Day4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Day5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/guru99/LivePythonProject" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/guru99/LivePythonProject/Day5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -506,89 +552,23 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lesson5_stack_with_module" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Practise" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataStructuresAndAlgorithms" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson5_stack_with_module.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lesson6_queue" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Practise" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataStructuresAndAlgorithms" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson6_queue.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="lambda" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Practise" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GeeksforGeeks/Function" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GeeksforGeeks/Function/lambda.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.Argparse" />
       <item itemvalue="Python.Example_2" />
       <item itemvalue="Python.Example3" />
-      <item itemvalue="Python.Delete (1)" />
-      <item itemvalue="Python.Lesson5_stack_with_module" />
-      <item itemvalue="Python.Lesson6_queue" />
-      <item itemvalue="Python.1_peak_element" />
-      <item itemvalue="Python.lambda" />
+      <item itemvalue="Python.Day1" />
+      <item itemvalue="Python.Day2" />
+      <item itemvalue="Python.Day3" />
+      <item itemvalue="Python.Day4" />
+      <item itemvalue="Python.Day5" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lambda" />
-        <item itemvalue="Python.1_peak_element" />
-        <item itemvalue="Python.Delete (1)" />
-        <item itemvalue="Python.Lesson6_queue" />
-        <item itemvalue="Python.Lesson5_stack_with_module" />
+        <item itemvalue="Python.Day5" />
+        <item itemvalue="Python.Day4" />
+        <item itemvalue="Python.Day3" />
+        <item itemvalue="Python.Day1" />
+        <item itemvalue="Python.Day2" />
       </list>
     </recent_temporary>
   </component>
@@ -649,7 +629,7 @@
       <workItem from="1697369879921" duration="546000" />
       <workItem from="1697888364259" duration="2314000" />
       <workItem from="1698122661082" duration="777000" />
-      <workItem from="1699522437855" duration="696000" />
+      <workItem from="1699522437855" duration="19875000" />
     </task>
     <task id="LOCAL-00001" summary="Daily email digest archietcture">
       <created>1673241695142</created>
@@ -662,7 +642,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="314603000" />
+    <option name="totallyTimeSpent" value="333782000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -674,7 +654,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1048" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13486141" />
@@ -682,50 +662,25 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32789117" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3726776" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.032786883" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49964157" weight="0.30054644" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49964157" weight="0.32748538" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49964157" weight="0.32677597" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49946696" weight="0.3265306" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5003584" side_tool="true" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49946696" weight="0.39863947" />
-      <window_info anchor="bottom" id="Python Console" order="11" weight="0.3245033" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49946696" weight="0.32568306" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5010661" side_tool="true" weight="0.21092896" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4989339" weight="0.21092896" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32349727" />
       <window_info anchor="bottom" id="Database Changes" order="12" sideWeight="0.49892473" weight="0.32789117" />
-      <window_info anchor="bottom" id="ExcelReader" order="13" weight="0.32908458" />
+      <window_info anchor="bottom" id="ExcelReader" order="13" weight="0.32896176" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Remote Host" order="3" weight="0.3297491" />
-      <window_info anchor="right" id="SciView" order="4" weight="0.3297491" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.52771854" />
       <window_info anchor="right" id="Database" order="5" weight="0.3297491" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.3508772" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32789117" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3726776" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49964157" weight="0.30054644" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49964157" weight="0.32748538" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49946696" weight="0.3265306" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5003584" side_tool="true" weight="0.4" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49946696" visible="true" weight="0.32671082" />
-      <window_info anchor="bottom" id="Python Console" order="11" weight="0.3245033" />
-      <window_info anchor="bottom" id="Database Changes" order="12" sideWeight="0.49892473" weight="0.32789117" />
-      <window_info anchor="bottom" id="ExcelReader" order="13" weight="0.32908458" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Remote Host" order="3" />
-      <window_info anchor="right" id="SciView" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -735,9 +690,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Daily email digest archietcture" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="267" height="288" key="Git.Branch.Popup" />
+    <state width="269" height="290" key="Git.Branch.Popup" />
+    <state width="269" height="290" key="Git.Branch.Popup/1920.1080" />
     <state width="267" height="288" key="Git.Branch.Popup/2880.1800/1920.1080" />
-    <state width="267" height="288" key="Git.Branch.Popup@1920.1080" />
+    <state width="269" height="290" key="Git.Branch.Popup@1920.1080" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -751,36 +707,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/GeeksforGeeks/Classes and objects/Multiple.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Yet to Learn/Delete.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson1-DataStructure.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson2-List_and_tuple.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson3-Set_and_dictionary.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Lesson4-Stack.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-417">
@@ -1047,8 +973,60 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GeeksforGeeks/Function/lambda.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
+        <state relative-caret-position="371">
           <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guru99/LivePythonProject/Day1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1120">
+          <caret line="56" column="32" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guru99/LivePythonProject/Day2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1040">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guru99/LivePythonProject/Day3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20">
+          <caret line="57" column="1" lean-forward="true" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guru99/LivePythonProject/Day4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="168" selection-start-line="168" selection-end-line="168" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guru99/LivePythonProject/Day5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="220" column="1" lean-forward="true" selection-start-line="220" selection-start-column="1" selection-end-line="220" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#238#308#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guru99/LivePythonProject/Day6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1600">
+          <caret line="113" column="7" lean-forward="true" selection-start-line="113" selection-start-column="7" selection-end-line="113" selection-end-column="7" />
         </state>
       </provider>
     </entry>
